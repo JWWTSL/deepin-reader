@@ -137,7 +137,7 @@ protected:
      * 鼠标进入事件
      * @param event
      */
-    void enterEvent(QEvent *event) override;
+    void enterEvent(QEnterEvent *event) override;
 
     /**
      * @brief leaveEvent

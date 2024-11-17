@@ -117,7 +117,7 @@ void SlidePlayWidget::onTimerout()
     this->hide();
 }
 
-void SlidePlayWidget::enterEvent(QEvent *event)
+void SlidePlayWidget::enterEvent(QEnterEvent *event)
 {
     m_timer.stop();
     DFloatingWidget::enterEvent(event);

@@ -250,7 +250,6 @@ bool DPdfDoc::save()
 
     DPdfMutexLocker locker("DPdfDoc::save");
     bool result = FPDF_SaveAsCopy(reinterpret_cast<FPDF_DOCUMENT>(d_func()->m_docHandler), &write, FPDF_NO_INCREMENTAL);
-    locker.unlock();
 
     saveWriter.close();
 
@@ -292,7 +291,6 @@ bool DPdfDoc::saveAs(const QString &filePath)
 
     DPdfMutexLocker locker("DPdfDoc::saveAs");
     bool result = FPDF_SaveAsCopy(reinterpret_cast<FPDF_DOCUMENT>(d_func()->m_docHandler), &write, FPDF_NO_INCREMENTAL);
-    locker.unlock();
 
     saveWriter.close();
 

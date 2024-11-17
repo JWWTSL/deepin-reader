@@ -10,10 +10,10 @@
 #include "DBusObject.h"
 
 #include <DLog>
-#include <DApplicationSettings>
+//#include <DApplicationSettings>
 
 #include <QCommandLineParser>
-#include <QDesktopWidget>
+#include <QScreen>
 #include <QAccessible>
 #include <QDebug>
 #include <QFontDatabase>
@@ -76,8 +76,8 @@ int main(int argc, char *argv[])
     QAccessible::installFactory(accessibleFactory);
 
     //Dtk自动保存主题
-    DApplicationSettings savetheme;
-    Q_UNUSED(savetheme)
+    //DApplicationSettings savetheme;
+    //Q_UNUSED(savetheme)
 
     Dtk::Core::DLogManager::registerConsoleAppender();
     Dtk::Core::DLogManager::registerFileAppender();
