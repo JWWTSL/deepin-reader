@@ -4,12 +4,12 @@
     <message>
         <location filename="../reader/Application.cpp" line="39"/>
         <source>Document Viewer</source>
-        <translation>ئەتەتەن نەشري</translation>
+        <translation>Bendêrêr</translation>
     </message>
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>ئەتەتەن نەشري دەرەجە دۆخەن فایلو بۆ چونەن بەکاردەن، PDF، DJVU، DOCX ھەڵبەهەو چەکەرەکان بەکاردەن</translation>
+        <translation>Bendêrêr ni parçeyek biheştinê ku dêrêrêkî dêrêrîn, PDF, DJVU, DOCX hewayên dîğerîn hewayîn.</translation>
     </message>
 </context>
 <context>
@@ -17,92 +17,92 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="46"/>
         <source>Location</source>
-        <translation>مەکان</translation>
+        <translation>Mekan</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="47"/>
         <source>Subject</source>
-        <translation>مەسالە</translation>
+        <translation>Temam</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="48"/>
         <source>Author</source>
-        <translation>ناوی نووسەر</translation>
+        <translation>Nivîsî</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>کۆمارەکان</translation>
+        <translation>Kavîs</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
         <source>Producer</source>
-        <translation>تەکرەرکەر</translation>
+        <translation>Pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="51"/>
         <source>Creator</source>
-        <translation>ناوی نووسەر</translation>
+        <translation>Kurîtor</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>زمانی نووسین</translation>
+        <translation>Wekarîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>زمانی دەگرەن</translation>
+        <translation>Wekarîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
         <source>Format</source>
-        <translation>فرۆمەت</translation>
+        <translation>Formata</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="55"/>
         <source>Pages</source>
-        <translation>پەجەکان</translation>
+        <translation>Sîl</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
         <source>Optimized</source>
-        <translation>بەکاردەن</translation>
+        <translation>Pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="57"/>
         <source>Security</source>
-        <translation>سەرچەم</translation>
+        <translation>Girtî</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
         <source>Page size</source>
-        <translation>پەجە کۆتەر</translation>
+        <translation>Mîsîl</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="60"/>
         <source>File size</source>
-        <translation>فایل کۆتەر</translation>
+        <translation>Pîşesîl</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
         <source>Basic info</source>
-        <translation>ئەساسی نەشري</translation>
+        <translation>Pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
         <source>Unknown</source>
-        <translation>نەدەیە</translation>
+        <translation>Mîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
         <source>Yes</source>
-        <translation>بەر</translation>
+        <translation>Bê</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
         <source>No</source>
-        <translation>نەر</translation>
+        <translation>He</translation>
     </message>
 </context>
 <context>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>ئەتەتەن نەشري بەکاردەن</translation>
+        <translation>Bendêrêrêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>ھەڵبەهەو ئەتەتەن نەشري بەکاردەن دەگرەن؟</translation>
+        <translation>Dîsa bê bê dêrêrêkî pêşbîn hewayîn?</translation>
     </message>
 </context>
 <context>
@@ -123,97 +123,97 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="39"/>
         <source>Copy</source>
-        <translation>کۆپی کردن</translation>
+        <translation>Kopî</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="43"/>
         <source>Remove annotation</source>
-        <translation>ئەتەتەن نەشري نووتە دەگرەن</translation>
+        <translation>Kurîtorêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="44"/>
         <source>Add annotation</source>
-        <translation>ئەتەتەن نەشري نووتە بەکاردەن</translation>
+        <translation>Kurîtorêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>ئەتەتەن نەشري بەکاردەن دەگرەن</translation>
+        <translation>Bendêrêrêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>ئەتەتەن نەشري بەکاردەن</translation>
+        <translation>Bendêrêrêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
         <source>Highlight</source>
-        <translation>ئەتەتەن نەشري دەرەجە بەکاردەن</translation>
+        <translation>Bendêrêrêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>ئەتەتەن نەشري دەرەجە دەگرەن</translation>
+        <translation>Bendêrêrêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
         <source>Search</source>
-        <translation>تەقىرە</translation>
+        <translation>Bendêrêrêkî pêşbîn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>تۆپ چاپەوە</translation>
+        <translation>بەرەوە بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>تۆپ چاپەوە</translation>
+        <translation>بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
         <source>Slide show</source>
-        <translation>پشتێرەوە</translation>
+        <translation>نەشەنە کرەوە</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="100"/>
         <source>First page</source>
-        <translation>پەڕەی گەورە</translation>
+        <translation>پەرە یەکەم</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="101"/>
         <source>Previous page</source>
-        <translation>پەڕەی پێش</translation>
+        <translation>پەرە کەمەکەم</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="107"/>
         <source>Next page</source>
-        <translation>پەڕەی بەرەو</translation>
+        <translation>پەرە دواتر</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="108"/>
         <source>Last page</source>
-        <translation>پەڕەی کەش</translation>
+        <translation>پەرە نەوەم</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>چەکەوە چەپ</translation>
+        <translation>بەرەوە چەپ</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>چەکەوە راست</translation>
+        <translation>بەرەوە ھەق</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
         <source>Print</source>
-        <translation>چاپ کردن</translation>
+        <translation>چاپ کرەوە</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="121"/>
         <source>Document info</source>
-        <translation>مەلەمەتی دوكۆمان</translation>
+        <translation>مەلumatی دوکومنە</translation>
     </message>
 </context>
 <context>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../reader/uiframe/Central.cpp" line="147"/>
         <source>Documents</source>
-        <translation>دوكۆمانە</translation>
+        <translation>دوکومنە</translation>
     </message>
 </context>
 <context>
@@ -229,48 +229,48 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="166"/>
         <source>The format is not supported</source>
-        <translation>فرۆمەتی ئەوە نەدەوە</translation>
+        <translation>فرمەتی نەدەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
         <source>Open failed</source>
-        <translation>بەستەوە نەکردن</translation>
+        <translation>بەچەوە نەدەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>چек کەوە بۆ کردنەوەی فایلەکە</translation>
+        <translation>چەک کەرەوە بەکەمەکەم فایلی دەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>تەواو کردنەوە نەکردن، بەستەوە بۆ کردنەوەی فایلەکە</translation>
+        <translation>تەواوکردنی نەدەرەوە، چەک کەرەوە بەکەمەکەم فایلی دەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>بەستەوە نەکردن</translation>
+        <translation>بەچەوە نەدەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
         <source>Saved successfully</source>
-        <translation>بەستەوە دەکردن</translation>
+        <translation>بەچەوە دەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="444"/>
         <source>Save as</source>
-        <translation>بەستەوە بە کۆن</translation>
+        <translation>بەچەوە بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="453"/>
         <source>Invalid file name</source>
-        <translation>ناوی فایلەکە ناکۆن</translation>
+        <translation>نامی فایلی نەدەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="455"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>بەرەو</translation>
+        <translation>بەرەوە</translation>
     </message>
 </context>
 <context>
@@ -278,17 +278,17 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>دوكۆمانەکە بەرەو کەش بەکەن</translation>
+        <translation>دوکومنە بەرەوە بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>فرۆمەتی دەستکارکردن: %1</translation>
+        <translation>فرمەتی دەرەوە: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
         <source>Select File</source>
-        <translation>فایلەکە بەکەن</translation>
+        <translation>فایلی بەرەوە</translation>
     </message>
 </context>
 <context>
@@ -296,17 +296,17 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>تەمەمەکە بەرەو کەش بەکەن</translation>
+        <translation>بەرەوە بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
         <source>Please select the text</source>
-        <translation>تەکستەکە بەکەن</translation>
+        <translation>تەکستی بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>تەمەمەکە بەرەو کەش بەکەن</translation>
+        <translation>نوتە بەرەوە</translation>
     </message>
 </context>
 <context>
@@ -314,23 +314,23 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>فایلی نەدەوە، پاسۆردەکە بەکەن</translation>
+        <translation>فایلی شیفڕەوە، پاسووردی بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
         <source>Password</source>
-        <translation>پاسۆرد</translation>
+        <translation>پاسوورد</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="61"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>بەرەو</translation>
+        <translation>بەرەوە</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
         <source>Wrong password</source>
-        <translation>کلمه‌ی ژیان چی دەبێ</translation>
+        <translation>Parolê xet</translation>
     </message>
 </context>
 <context>
@@ -338,12 +338,12 @@
     <message>
         <location filename="../reader/widgets/FindWidget.cpp" line="127"/>
         <source>Previous</source>
-        <translation>بەرەو دوور</translation>
+        <translation>Bêzî</translation>
     </message>
     <message>
         <location filename="../reader/widgets/FindWidget.cpp" line="135"/>
         <source>Next</source>
-        <translation>بەرەو کۆش</translation>
+        <translation>Next</translation>
     </message>
 </context>
 <context>
@@ -351,12 +351,12 @@
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="35"/>
         <source>Select Text</source>
-        <translation>تەکستی بەرەو چەک کردن</translation>
+        <translation>Metin seçin</translation>
     </message>
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="43"/>
         <source>Hand Tool</source>
-        <translation>ئەم ئەمەن</translation>
+        <translation>Çûkî</translation>
     </message>
 </context>
 <context>
@@ -364,12 +364,12 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="67"/>
         <source>Add annotation</source>
-        <translation>ئەنوتەشنێک بەرەو دەکەردن</translation>
+        <translation>Anotasyonê bûzirin</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>ئەمەنەکانی هەموو چەک کردنەوە؟</translation>
+        <translation>Anotaşyonên hejmardî dêrbin? Hemî anotasyonê dêrbin?</translation>
     </message>
 </context>
 <context>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../reader/widgets/PagingWidget.cpp" line="212"/>
         <source>Invalid page number</source>
-        <translation>ژمارەی پەڕی ناچاکە</translation>
+        <translation>Sayfa númerê xet</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>تەواو کردن</translation>
+        <translation>Dewam kirin</translation>
     </message>
 </context>
 <context>
@@ -393,43 +393,43 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>ئاگرەکە ناچاکە</translation>
+        <translation>Dokumentî neqetî</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>تەواو کردنەوە بۆ "%1"؟</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Dewam kirin &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation>بەخێر</translation>
+        <translation>Bekan</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>تەواو کردن</translation>
+        <translation>Bekan</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>
         <source>Save</source>
         <comment>button</comment>
-        <translation>تەواو کردن</translation>
+        <translation>Bûzirin</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation>بەخێر</translation>
+        <translation>Bekan</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="50"/>
         <source>Delete</source>
-        <translation>جەزە</translation>
+        <translation>Dêrbin</translation>
     </message>
 </context>
 <context>
@@ -437,27 +437,27 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="35"/>
         <source>Two-Page View</source>
-        <translation>بینا کردنی دوو پەڕ</translation>
+        <translation>Dû Sayfa Navî</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="36"/>
         <source>1:1 size</source>
-        <translation>بە ئەنجا 1:1</translation>
+        <translation>1:1 hêj</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>بەرەو چەک کردن</translation>
+        <translation>Sayfa Destin</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>بەرەو چەک کردنی بەردەوام</translation>
+        <translation>Girtin Destin</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>بەرەو چەک کردنی گەڕە</translation>
+        <translation>Dewam Destin</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>نەتەوە پەڕەکان</translation>
+        <translation>Girtin nêzî</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 پەڕە دۆزرایەن'</translation>
+        <translation>&apos;%1 nêzî dîtin&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,24 +478,24 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>ئاگرەکە بەرەو چەک کردنەوە بۆ:</translation>
+        <translation>Dokumentî bi %1 derkeşî dêrbin</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>ئەگەر توپەکە بەرەو چەک کردنەوە بێت، کلیک کردنەوە Allow، خەڵکە بەرەو چەک کردنەوە نەبێت، کلیک کردنەوە Block.</translation>
+        <translation>Agar weşînê bêxweşî dêrbin, Allow bînin, dêr bi Block bînin.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
         <source>Block</source>
         <comment>button</comment>
-        <translation>بەرەو چەک کردن</translation>
+        <translation>Block</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
         <source>Allow</source>
         <comment>button</comment>
-        <translation>پەرەوەز کردن</translation>
+        <translation>Allow</translation>
     </message>
 </context>
 <context>
@@ -503,22 +503,22 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="84"/>
         <source>Thumbnails</source>
-        <translation>کۆچەکان</translation>
+        <translation>Girtin</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
         <source>Catalog</source>
-        <translation>کاتالۆگ</translation>
+        <translation>Kataloq</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>کۆچەکان</translation>
+        <translation>Bûkmark</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
         <source>Annotations</source>
-        <translation>ئەتەسەت</translation>
+        <translation>ئەنوتەشن</translation>
     </message>
 </context>
 <context>
@@ -526,12 +526,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="60"/>
         <source>Settings</source>
-        <translation>ئەتەسەتە</translation>
+        <translation>ئەستەن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="124"/>
         <source>Exit</source>
-        <translation>تۆر</translation>
+        <translation>تۆپ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="100"/>
@@ -541,162 +541,162 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="120"/>
         <source>Page up</source>
-        <translation>پەڕە کەم</translation>
+        <translation>پەج ئۈپ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="121"/>
         <source>Page down</source>
-        <translation>پەڕە زیاد</translation>
+        <translation>پەج داون</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="105"/>
         <source>Open</source>
-        <translation>بەکارھێن</translation>
+        <translation>ئاچ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>بەزیادکردن</translation>
+        <translation>زۆم ئىن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>بەکەمکردن</translation>
+        <translation>زۆم ئوت</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
         <source>Save as</source>
-        <translation>بەکارھێنەوە</translation>
+        <translation>سەۋە ئەس</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="107"/>
         <source>Print</source>
-        <translation>چاپ کردن</translation>
+        <translation>چاپ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="108"/>
         <source>Save</source>
-        <translation>بەکارھێنە</translation>
+        <translation>سەۋە</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
         <source>Thumbnails</source>
-        <translation>تۆپىکا</translation>
+        <translation>تۆمەن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
         <source>1:1 size</source>
-        <translation>1:1 چەمە</translation>
+        <translation>1:1 ئەھۋال</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>بەکەشانە کۆتات</translation>
+        <translation>ئەھۋال ئىن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>بەکەشانە چەمە</translation>
+        <translation>ئەھۋال ئوت</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>چەمە چەپ</translation>
+        <translation>تۆرەت چەپ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>چەمە ھەڵ</translation>
+        <translation>تۆرەت ھۆج</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>بەتەنە ھەڵ</translation>
+        <translation>بەشىنى ئىن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>بەتەنە چەپ</translation>
+        <translation>بەشىنى ئوت</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
         <source>Select text</source>
-        <translation>تەکستی چاک کردن</translation>
+        <translation>مەتنى تىيىن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="129"/>
         <source>Hand tool</source>
-        <translation>بەکارھێنەرە ھەند</translation>
+        <translation>ئەڭ ھەند</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="130"/>
         <source>Add bookmark</source>
-        <translation>کۆتاتی چاک کردن</translation>
+        <translation>ئىشىنى چەپ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="143"/>
         <source>Delete</source>
-        <translation>تۆر</translation>
+        <translation>تەكىلى</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="133"/>
         <source>Magnifier</source>
-        <translation>بەکارھێنەرە چەمە</translation>
+        <translation>مەغنىفي</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
         <source>Slide show</source>
-        <translation>سڵايد شوو</translation>
+        <translation>سلايد شو</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="136"/>
         <source>Fullscreen</source>
-        <translation>ئەتەسەتە چەمە</translation>
+        <translation>فولسىكىن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="140"/>
         <source>Copy</source>
-        <translation>کۆپی کردن</translation>
+        <translation>كۆپى</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="141"/>
         <source>Cut</source>
-        <translation>تۆر کردن</translation>
+        <translation>تېكىلى</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="142"/>
         <source>Paste</source>
-        <translation>بەکارھێنە کردن</translation>
+        <translation>بەسى</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>بەردەوام کردن</translation>
+        <translation>Birqet</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
         <source>Select all</source>
-        <translation>هەمه لەسەر کردن</translation>
+        <translation>Hemmen selet</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>کوتاکە ئەوە بەکارهێنەرەوە نمایەنەوە</translation>
+        <translation>Kurta pêşkêşî</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
         <source>Add annotation</source>
-        <translation>ئەتەتەکە بەکارهێنەرەوە گەڕانەوە</translation>
+        <translation>Notê bêşkêşî</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
         <source>Highlight</source>
-        <translation>ئەوە بەکارهێنەرەوە چاک کردن</translation>
+        <translation>Kurte hilîn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="134"/>
         <source>Search</source>
-        <translation>تەقەریب کردن</translation>
+        <translation>Girtin</translation>
     </message>
 </context>
 <context>
@@ -704,22 +704,22 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="194"/>
         <source>Copy</source>
-        <translation>کۆپی کردن</translation>
+        <translation>Kopî</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="199"/>
         <source>Remove annotation</source>
-        <translation>ئەتەتەکە بەکارهێنەرەوە پاک کردن</translation>
+        <translation>Notê derxîn</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
         <source>Remove all</source>
-        <translation>هەمه پاک کردن</translation>
+        <translation>Hemmen derxîn</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
         <source>Remove bookmark</source>
-        <translation>بەکارهێنەرەوە بەکارهێنەرەوە کۆتاکە پاک کردن</translation>
+        <translation>Mêrê derxîn</translation>
     </message>
 </context>
 <context>
@@ -727,7 +727,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageViewModel.cpp" line="135"/>
         <source>Page %1</source>
-        <translation>پەڕ %1</translation>
+        <translation>Peyj %1</translation>
     </message>
 </context>
 <context>
@@ -735,12 +735,12 @@
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="127"/>
         <source>It is the first page</source>
-        <translation>ئەوە پەڕی نخستە</translation>
+        <translation>Peyjê yekem e</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="132"/>
         <source>It is the last page</source>
-        <translation>ئەوە پەڕی چووە</translation>
+        <translation>Peyjê dîn e</translation>
     </message>
 </context>
 <context>
@@ -748,47 +748,47 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New window</source>
-        <translation>پەنجرە نوو</translation>
+        <translation>Jendîyek nû</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>تەب نوو</translation>
+        <translation>Tabek nû</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
         <source>Save</source>
-        <translation>بچوو</translation>
+        <translation>Pêşniyarkirin</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
         <source>Save as</source>
-        <translation>بچوو بە ناوی دیکە</translation>
+        <translation>Pêşniyarkirin bêxwed</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Display in file manager</source>
-        <translation>فایل ھێدەرەوە بەکارهێنەرەوە نمایەنەوە</translation>
+        <translation>În pîvanînê pêşkêşî</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>بەکارهێنەرەوە بەکارهێنەرەوە چاک کردن</translation>
+        <translation>Mêrîn</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
         <source>Tools</source>
-        <translation>کۆمەڵ ئەمە</translation>
+        <translation>Wênekî</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Search</source>
-        <translation>تەقەریب کردن</translation>
+        <translation>Girtin</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Print</source>
-        <translation>چاپ کردن</translation>
+        <translation>Pîrint</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>کۆتاکە</translation>
+        <translation>Peyjîn</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>مقداری وەرگرتن بەکارهێنەرەوە بەکارهێنەرەوە دەستکاری</translation>
+        <translation>Kontrola wendîya kêm e</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>پەڕەکە فایل پەتوانە</translation>
+        <translation>Pîvanînê Dokumanta</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>پەتوانە</translation>
+        <translation>Pîvanîn</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>کۆتاکە پەتوانە</translation>
+        <translation>Peyjînê Pîvanîn</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>کۆتاکە بەکارهێنەرەوە بەکارهێنەرەوە دەستکاری</translation>
+        <translation>Peyjînê pêşkêşî</translation>
     </message>
 </context>
 </TS>

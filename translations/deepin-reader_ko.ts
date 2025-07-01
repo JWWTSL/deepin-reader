@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>"%1"에 변경 사항을 저장하시겠습니까?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>&quot;%1&quot;에 변경사항을 저장하시겠습니까?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -478,12 +478,12 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>이 문서가 연결하려고 합니다:</translation>
+        <translation>이 문서는 다음에 연결하려고 합니다:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>웹사이트를 신뢰하시면 허용을 클릭하고, 그렇지 않다면 차단을 클릭하세요.</translation>
+        <translation>웹사이트를 신뢰하시면 허용을 클릭하고, 그렇지 않다면 차단을 클릭해 주세요.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
@@ -611,12 +611,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>처음으로 이동</translation>
+        <translation>시작 위치로 이동</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>끝으로 이동</translation>
+        <translation>끝 위치로 이동</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>

@@ -9,7 +9,7 @@
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Пregledač dokumenta је алат за читање докумената, подржава PDF, DJVU, DOCX итд.</translation>
+        <translation>Dokumentni pregledač je alat za čitanje dokumentačnih datoteka, podržava PDF, DJVU, DOCX itd.</translation>
     </message>
 </context>
 <context>
@@ -234,7 +234,7 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
         <source>Open failed</source>
-        <translation>Otvorenje nije uspelo</translation>
+        <translation>Otvoriti nije uspelo</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
@@ -244,7 +244,7 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>Konverzija nije uspela, молим проверите да ли је датотека повређена</translation>
+        <translation>Pretvorba nije uspela, provjerite je li datoteka oštećena</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>Напомена је уклоњена</translation>
+        <translation>Napomena je uklonjena</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Шифрована датотека, молим унесите лозинку</translation>
+        <translation>Šifrirana datoteka, unesite lozinku</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -369,7 +369,7 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>Сигурни сте да желите обришите све напомене?</translation>
+        <translation>Zaista želite obrisati sve napomene?</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>Konverzija</translation>
+        <translation>Pretvaranje</translation>
     </message>
 </context>
 <context>
@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Сачувати промене у "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Sačuvati promjene u &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -447,17 +447,17 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>Prilagodi страну</translation>
+        <translation>Prilagodi stranicu</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>Prilagodi висину</translation>
+        <translation>Prilagodi visinu</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>Prilagodi ширину</translation>
+        <translation>Prilagodi širinu</translation>
     </message>
 </context>
 <context>
@@ -470,7 +470,7 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 stavki pronađene'</translation>
+        <translation>&apos;%1 stavki pronađeno&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,18 +478,18 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>Овај документ покушава да се повеже са:</translation>
+        <translation>Ovaj dokument pokušava da se poveže na:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>Ако верујете да је сајт безбедан, кликните Дозволи, у супротном кликните Блокирај.</translation>
+        <translation>Ako vam vjerujete u web stranicu, kliknite Dovolji, inače kliknite Zabranite.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
         <source>Block</source>
         <comment>button</comment>
-        <translation>Блокирај</translation>
+        <translation>Zabranite</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
@@ -503,7 +503,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="84"/>
         <source>Thumbnails</source>
-        <translation>Miniaturice</translation>
+        <translation>Minijaturne slike</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
@@ -581,7 +581,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
         <source>Thumbnails</source>
-        <translation>Miniaturice</translation>
+        <translation>Minijaturne slike</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
@@ -591,12 +591,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>Prilagodi висину</translation>
+        <translation>Prilagodi visinu</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>Prilagodi ширину</translation>
+        <translation>Prilagodi širinu</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
@@ -611,12 +611,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>Премести на почетак</translation>
+        <translation>Premjesti na početak</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>Pomakni na kraj</translation>
+        <translation>Premakni na kraj</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>Pretpreglednice</translation>
+        <translation>Pretraga slika</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>Dostignut je limit unosa</translation>
+        <translation>Dostignut je ograničenje unosa</translation>
     </message>
 </context>
 <context>
@@ -817,17 +817,17 @@
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>Put do datoteke</translation>
+        <translation>Put do fajla</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>Put do pretpreglednice</translation>
+        <translation>Put do slika</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>Generiraj pretpreglednicu.</translation>
+        <translation>Generiraj sliku</translation>
     </message>
 </context>
 </TS>

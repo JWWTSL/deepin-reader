@@ -9,7 +9,7 @@
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Document Viewer är ett verktyg för att läsa dokumentfiler, som stöder PDF, DJVU, DOCX etc.</translation>
+        <translation>Dokumentvisaren är ett verktyg för att läsa dokumentfiler, som stödjer PDF, DJVU, DOCX etc.</translation>
     </message>
 </context>
 <context>
@@ -47,12 +47,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>Tid skapad</translation>
+        <translation>Skapad tid</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>Tid ändrad</translation>
+        <translation>Ändrad tid</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
@@ -163,17 +163,17 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>Lämna fullskär</translation>
+        <translation>Avsluta fullskärmläge</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>Fullskär</translation>
+        <translation>Fullskärm</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
         <source>Slide show</source>
-        <translation>Slide show</translation>
+        <translation>Slideshow</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="100"/>
@@ -198,12 +198,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Vrid till vänster</translation>
+        <translation>Vänd till vänster</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Vrid till höger</translation>
+        <translation>Vänd till höger</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
@@ -234,12 +234,12 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
         <source>Open failed</source>
-        <translation>Öppnande misslyckades</translation>
+        <translation>Öppning misslyckades</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>Vill du kontrollera om filen är skadad?</translation>
+        <translation>Kontrollera om filen är skadad</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
@@ -249,12 +249,12 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>Sparande misslyckades</translation>
+        <translation>Sparning misslyckades</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
         <source>Saved successfully</source>
-        <translation>Sparades framgångsrikt</translation>
+        <translation>Sparad framgångsrikt</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="444"/>
@@ -278,12 +278,12 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>Draga dokument här</translation>
+        <translation>Släpp dokument här</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>Formatet stöds: %1</translation>
+        <translation>Format stöds: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Krypterad fil, vänligen ange lösenordet</translation>
+        <translation>Krypterad fil, ange lösenord</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>Omvandning</translation>
+        <translation>Konverterar</translation>
     </message>
 </context>
 <context>
@@ -393,15 +393,15 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>Dokumentet är inte sparad</translation>
+        <translation>Dokumentet har inte sparas</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Spara ändringarna till "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Spara ändringarna till &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -470,7 +470,7 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 objekt hittade'</translation>
+        <translation>&apos;%1 objekt hittade&apos;</translation>
     </message>
 </context>
 <context>
@@ -556,12 +556,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>Zooma in</translation>
+        <translation>Zoom in</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>Zooma ut</translation>
+        <translation>Zoom ut</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
@@ -601,12 +601,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Vrid till vänster</translation>
+        <translation>Rotera till vänster</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Vrid till höger</translation>
+        <translation>Rotera till höger</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
@@ -621,7 +621,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
         <source>Select text</source>
-        <translation>Markera text</translation>
+        <translation>Välj text</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="129"/>
@@ -671,7 +671,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>Återgå</translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
@@ -681,7 +681,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>Visa snabbkommandon</translation>
+        <translation>Visa snabbtaster</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>Ny flik</translation>
+        <translation>Nytt flikfönster</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>Miniatyrbilder</translation>
+        <translation>Miniatyrer</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>Inmatningsgränsen är uppnådd</translation>
+        <translation>Inmatningsgräns uppnådd</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>Dokumentfilväg</translation>
+        <translation>Dokumentfilbanan.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>Filväg</translation>
+        <translation>Filbanan</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>Miniatyrbildsväg</translation>
+        <translation>Miniatyrbanan.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>Skapa miniatyrbild</translation>
+        <translation>Generera miniatyr.</translation>
     </message>
 </context>
 </TS>

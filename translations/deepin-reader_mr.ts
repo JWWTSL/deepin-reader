@@ -4,12 +4,12 @@
     <message>
         <location filename="../reader/Application.cpp" line="39"/>
         <source>Document Viewer</source>
-        <translation>દસ્તાવેજ વીઝર</translation>
+        <translation>दॉक्युमेंट व्यूअर</translation>
     </message>
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>દસ્તાવેજ વીઝર એ એક સાધન છે જે દસ્તાવેજ ફાઇલોનું વાંચન કરવા માટે વાપરવામાં આવે છે, જેમાં PDF, DJVU, DOCX આદિ સમર્થન છે</translation>
+        <translation>दॉक्युमेंट व्यूअर एक दॉक्युमेंट फाइल्स पढ़ने के लिए उपयोग किया जाने वाला टूल है, जो PDF, DJVU, DOCX आदि समर्थित करता है।</translation>
     </message>
 </context>
 <context>
@@ -17,92 +17,92 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="46"/>
         <source>Location</source>
-        <translation>સ્થાન</translation>
+        <translation>स्थान</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="47"/>
         <source>Subject</source>
-        <translation>વિષય</translation>
+        <translation>विषय</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="48"/>
         <source>Author</source>
-        <translation>લેખક</translation>
+        <translation>लेखक</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>કીવર્ડ્સ</translation>
+        <translation>कीवर्ड्स</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
         <source>Producer</source>
-        <translation>ઉત્પાદક</translation>
+        <translation>उत्पादक</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="51"/>
         <source>Creator</source>
-        <translation>નિર્માતા</translation>
+        <translation>सृजक</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>સર્જન સમય</translation>
+        <translation>सृजन काल</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>સુધારણ સમય</translation>
+        <translation>संशोधन काल</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
         <source>Format</source>
-        <translation>ફોર્મેટ</translation>
+        <translation>फॉर्मेट</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="55"/>
         <source>Pages</source>
-        <translation>પેજો</translation>
+        <translation>पृष्ठ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
         <source>Optimized</source>
-        <translation>સંગતિકરણ</translation>
+        <translation>अनुकूलित</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="57"/>
         <source>Security</source>
-        <translation>સુરક્ષા</translation>
+        <translation>सुरक्षा</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
         <source>Page size</source>
-        <translation>પેજ આકાર</translation>
+        <translation>पृष्ठ के आकार</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="60"/>
         <source>File size</source>
-        <translation>ફાઇલ આકાર</translation>
+        <translation>फाइल के आकार</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
         <source>Basic info</source>
-        <translation>મૂળભૂત માહિતી</translation>
+        <translation>मूल जानकारी</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
         <source>Unknown</source>
-        <translation>અપરિચિત</translation>
+        <translation>अज्ञात</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
         <source>Yes</source>
-        <translation>હા</translation>
+        <translation>हाँ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
         <source>No</source>
-        <translation>ના</translation>
+        <translation>नाही</translation>
     </message>
 </context>
 <context>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>બુકમાર્ક ઉમેરો</translation>
+        <translation>बुकमार्क जोड़े</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>તમે બધા બુકમાર્ક નાખવા માંગો છો? ખાતરી કરો</translation>
+        <translation>क्या आप सभी बुकमार्क हटाना चाहते हैं?</translation>
     </message>
 </context>
 <context>
@@ -123,52 +123,52 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="39"/>
         <source>Copy</source>
-        <translation>કૉપી</translation>
+        <translation>कॉपी</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="43"/>
         <source>Remove annotation</source>
-        <translation>ટેક્સ્ટ ટેક્સ્ટ નાખો</translation>
+        <translation>अंकन हटाएं</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="44"/>
         <source>Add annotation</source>
-        <translation>ટેક્સ્ટ ટેક્સ્ટ ઉમેરો</translation>
+        <translation>अंकन जोड़े</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>બુકમાર્ક નાખો</translation>
+        <translation>बुकमार्क हटाएं</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>બુકમાર્ક ઉમેરો</translation>
+        <translation>बुकमार्क जोड़े</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
         <source>Highlight</source>
-        <translation>શીટ કરો</translation>
+        <translation>उच्चार्द्ध</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>શીટ દૂર કરો</translation>
+        <translation>उच्चार्द्ध हटाएं</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
         <source>Search</source>
-        <translation>શોધ</translation>
+        <translation>खोज</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>अंतर्गत फुलस्क्रीन बाहेर</translation>
+        <translation>पूर्ण पृष्ठ बंद करा</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>फुलस्क्रीन</translation>
+        <translation>पूर्ण पृष्ठ</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
@@ -178,42 +178,42 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="100"/>
         <source>First page</source>
-        <translation>पहिली पृष्ठ</translation>
+        <translation>पहिली पानी</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="101"/>
         <source>Previous page</source>
-        <translation>पूर्व पृष्ठ</translation>
+        <translation>पूर्वी पानी</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="107"/>
         <source>Next page</source>
-        <translation>पुढील पृष्ठ</translation>
+        <translation>पुढील पानी</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="108"/>
         <source>Last page</source>
-        <translation>अंतिम पृष्ठ</translation>
+        <translation>अंतील पानी</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>वर्तુળ ડાબી બાજુ</translation>
+        <translation>वाम फेरफार</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>વર્તુળ જમણી બાજુ</translation>
+        <translation>दक्षिण फेरफार</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
         <source>Print</source>
-        <translation>પ્રિંટ</translation>
+        <translation>प्रिंट करा</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="121"/>
         <source>Document info</source>
-        <translation>દોસ્તા માહિતી</translation>
+        <translation>दस्तावेज तपशील</translation>
     </message>
 </context>
 <context>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../reader/uiframe/Central.cpp" line="147"/>
         <source>Documents</source>
-        <translation>દોસ્તા</translation>
+        <translation>दस्तावेज</translation>
     </message>
 </context>
 <context>
@@ -229,48 +229,48 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="166"/>
         <source>The format is not supported</source>
-        <translation>ફોર્મેટ સપોર્ટ કરે છે નહીં</translation>
+        <translation>फॉर्मेट समर्थित नाही</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
         <source>Open failed</source>
-        <translation>ખોલવામાં ફેલ</translation>
+        <translation>ओपन फेल</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>કૃપા કરી છે કે ફાઇલ નુકસાન થઈ છે તે તપાસો</translation>
+        <translation>कृपया तपासा फाइल विकृत झाली आहे का</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>કન્વર્શન ફેલ, કૃપા કરી છે કે ફાઇલ નુકસાન થઈ છે તે તપાસો</translation>
+        <translation>कनवर्जन फेल, कृपया तपासा फाइल विकृत झाली आहे का</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>બચાવવામાં ફેલ</translation>
+        <translation>सेव करणे फेल</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
         <source>Saved successfully</source>
-        <translation>સફળપણે બચાવવામાં આવ્યું છે</translation>
+        <translation>यशस्वीपणे सेव करले</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="444"/>
         <source>Save as</source>
-        <translation>બચાવો તરીકે</translation>
+        <translation>सेव करा त्याप्रमाणे</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="453"/>
         <source>Invalid file name</source>
-        <translation>અમાન્ય ફાઇલ નામ</translation>
+        <translation>अवैध फाइल नाव</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="455"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>ઓક</translation>
+        <translation>अक्कल</translation>
     </message>
 </context>
 <context>
@@ -278,17 +278,17 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>અહીં દોસ્તા ખસેડો</translation>
+        <translation>तुम्ही इतर दस्तावेज येथे खेचा</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>ફોર્મેટ સપોર્ટ: %1</translation>
+        <translation>फॉर्मेट समर्थित: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
         <source>Select File</source>
-        <translation>ફાઇલ પસંદ કરો</translation>
+        <translation>फाइल निवडा</translation>
     </message>
 </context>
 <context>
@@ -296,17 +296,17 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>બુકમાર્ક દૂર કરવામાં આવ્યો છે</translation>
+        <translation>मार्क बुकमार्क दुर केले गेले आहे</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
         <source>Please select the text</source>
-        <translation>કૃપા કરી છે કે ટેક્સ્ટ પસંદ કરો</translation>
+        <translation>कृपया टेक्स्ट निवडा</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>એનોટેશન દૂર કરવામાં આવ્યો છે</translation>
+        <translation>अनोटेशन दुर केले गेले आहे</translation>
     </message>
 </context>
 <context>
@@ -314,23 +314,23 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>એન્ક્રિપ્ટ કરેલ ફાઇલ, કૃપા કરી છે કે પાસવર્ડ પ્રવેશ કરો</translation>
+        <translation>चिप्पर केलेली फाइल, कृपया पासवर्ड नमूद करा</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
         <source>Password</source>
-        <translation>પાસવર્ડ</translation>
+        <translation>पासवर्ड</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="61"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>ઓક</translation>
+        <translation>अक्कल</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
         <source>Wrong password</source>
-        <translation>अ‍याप बार्ट</translation>
+        <translation>ખોટું પાસવર્ડ</translation>
     </message>
 </context>
 <context>
@@ -338,12 +338,12 @@
     <message>
         <location filename="../reader/widgets/FindWidget.cpp" line="127"/>
         <source>Previous</source>
-        <translation>पूर्व</translation>
+        <translation>નીચેનું</translation>
     </message>
     <message>
         <location filename="../reader/widgets/FindWidget.cpp" line="135"/>
         <source>Next</source>
-        <translation>अगला</translation>
+        <translation>પછીનું</translation>
     </message>
 </context>
 <context>
@@ -351,12 +351,12 @@
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="35"/>
         <source>Select Text</source>
-        <translation>मजकर टेक्स्ट निवडा</translation>
+        <translation>ટેક્સ્ટ પસંદ કરો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="43"/>
         <source>Hand Tool</source>
-        <translation>हाण्ड टूल</translation>
+        <translation>છંદ કામગીરી</translation>
     </message>
 </context>
 <context>
@@ -364,12 +364,12 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="67"/>
         <source>Add annotation</source>
-        <translation>अनोटेशन उपलब्ध करा</translation>
+        <translation>ટેક્સ્ટ નોંધ ઉમેરો</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>तुम्ही सर्व अनोटेशन विल्यो आहात? खात्री करा</translation>
+        <translation>તમે બધા ટેક્સ્ટ નોંધ નાખવા માંગતા હો કે નહીં?</translation>
     </message>
 </context>
 <context>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../reader/widgets/PagingWidget.cpp" line="212"/>
         <source>Invalid page number</source>
-        <translation>अवैध पेज नंबर</translation>
+        <translation>અમાન્ય પેજ નંબર</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>कन्वर्ट करा</translation>
+        <translation>કન્વર્ટ કરો</translation>
     </message>
 </context>
 <context>
@@ -393,43 +393,43 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>दॉक्युमेंट सेव केलेला नाही</translation>
+        <translation>દોસ્ત નોંધ ના કરેલો</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation> "%1" मध्ये बदल करा?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>&quot;%1&quot; માં બદલાવ બચાવવા માંગતા હો કે નહીં?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation>वाटा</translation>
+        <translation>ના</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>काढा</translation>
+        <translation>નાખો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>
         <source>Save</source>
         <comment>button</comment>
-        <translation>सेव</translation>
+        <translation>બચાવો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation>वाटा</translation>
+        <translation>ના</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="50"/>
         <source>Delete</source>
-        <translation>हटवा</translation>
+        <translation>નાખો</translation>
     </message>
 </context>
 <context>
@@ -437,27 +437,27 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="35"/>
         <source>Two-Page View</source>
-        <translation>दोन पेज व्ह्यू</translation>
+        <translation>બે પેજ જોતા</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="36"/>
         <source>1:1 size</source>
-        <translation>1:1 आकार</translation>
+        <translation>1:1 આયસી</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>पेज फिट करा</translation>
+        <translation>પેજ સાથે ફિટ કરો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>उंची फिट करा</translation>
+        <translation>ઊભા સાથે ફિટ કરો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>पूर्ण चौरस फिट करा</translation>
+        <translation>બાંધા સાથે ફિટ કરો</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>कोणतेही शोध रिझल्ट नाहीत</translation>
+        <translation>કોઈ શોધ પરિણામ નથી</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 आइटम आढळले'</translation>
+        <translation>&apos;%1 આઇટમ મળ્યા&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,24 +478,24 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>हे दॉक्युमेंट खालील वेबसाइटशी संपर्क साधत आहे:</translation>
+        <translation>આ દોસ્ત કોઈની સાથે કનેક્ટ કરવા પ્રયત્ન કરી રહ્યો છે:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>यदी तुम्ही वेबसाइट विश्वास ठेवत आहात, Allow बटण दाबा, इतरथी Block बटण दाबा.</translation>
+        <translation>જો તમે વેબસાઇટને માનતા હો તો Allow પર ક્લિક કરો, અન્ય વસ્તુ માટે Block પર ક્લિક કરો.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
         <source>Block</source>
         <comment>button</comment>
-        <translation>ब्लॉक</translation>
+        <translation>બ્લોક</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
         <source>Allow</source>
         <comment>button</comment>
-        <translation>अलॉव</translation>
+        <translation>અનુમતિ આપો</translation>
     </message>
 </context>
 <context>
@@ -503,22 +503,22 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="84"/>
         <source>Thumbnails</source>
-        <translation>थंबनेल्स</translation>
+        <translation>છોટા છબીઓ</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
         <source>Catalog</source>
-        <translation>कॅटलॉग</translation>
+        <translation>કેટાલોગ</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>बुकमार्क्स</translation>
+        <translation>બુકમાર્ક્સ</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
         <source>Annotations</source>
-        <translation>अंकन</translation>
+        <translation>ટિપ્પીંગ</translation>
     </message>
 </context>
 <context>
@@ -526,17 +526,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="60"/>
         <source>Settings</source>
-        <translation>सेटिंग्ज</translation>
+        <translation>સેટિંગ્સ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="124"/>
         <source>Exit</source>
-        <translation>બહાર</translation>
+        <translation>બહાર નીકળો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="100"/>
         <source>Help</source>
-        <translation>મદદ</translation>
+        <translation>સહાય</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="120"/>
@@ -566,37 +566,37 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
         <source>Save as</source>
-        <translation>સેવ તરીકે</translation>
+        <translation>બચાવો તરીકે</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="107"/>
         <source>Print</source>
-        <translation>પ્રિંટ કરો</translation>
+        <translation>પ્રિન્ટ કે તરીકે</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="108"/>
         <source>Save</source>
-        <translation>સેવ</translation>
+        <translation>બચાવો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
         <source>Thumbnails</source>
-        <translation>છોટા છબીઓ</translation>
+        <translation>છોટા ચિત્રો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
         <source>1:1 size</source>
-        <translation>1:1 આયસ</translation>
+        <translation>1:1 આકાર</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>ઊભા કરો</translation>
+        <translation>ઊભા આકાર</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>ઊભા કરો</translation>
+        <translation>ચીરા આકાર</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
@@ -616,7 +616,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>અંતે મૂકો</translation>
+        <translation>અંતમાં મૂકો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
@@ -626,27 +626,27 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="129"/>
         <source>Hand tool</source>
-        <translation>હેન્ડ ટૂલ</translation>
+        <translation>હાથ ઉદ્યોગ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="130"/>
         <source>Add bookmark</source>
-        <translation>બુકમેર્ક ઉમેરો</translation>
+        <translation>બુકમાર્ક ઉમેરો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="143"/>
         <source>Delete</source>
-        <translation>ટેકો કરો</translation>
+        <translation>નાશ કરો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="133"/>
         <source>Magnifier</source>
-        <translation>મેગ્નિફાયર</translation>
+        <translation>ચિત્ર વધારો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
         <source>Slide show</source>
-        <translation>સલાઇડ શો</translation>
+        <translation>સલાઈડ શો</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="136"/>
@@ -671,7 +671,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>उडो</translation>
+        <translation>उत्तर देणे</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
@@ -681,7 +681,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>क्षमता दर्शवा</translation>
+        <translation>क्षेत्रप्रवेश करा</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
@@ -691,12 +691,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
         <source>Highlight</source>
-        <translation>उत्कृष्ट करा</translation>
+        <translation>उत्तम बोलता</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="134"/>
         <source>Search</source>
-        <translation>शोध</translation>
+        <translation>तपासा</translation>
     </message>
 </context>
 <context>
@@ -709,17 +709,17 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="199"/>
         <source>Remove annotation</source>
-        <translation>अंकन हटवा</translation>
+        <translation>अंकन दूर करा</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
         <source>Remove all</source>
-        <translation>सर्व हटवा</translation>
+        <translation>सर्व दूर करा</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
         <source>Remove bookmark</source>
-        <translation>मार्क हटवा</translation>
+        <translation>मार्क दूर करा</translation>
     </message>
 </context>
 <context>
@@ -758,22 +758,22 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
         <source>Save</source>
-        <translation>सेव</translation>
+        <translation>साचवा</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
         <source>Save as</source>
-        <translation>सेव करा</translation>
+        <translation>साचवा काढा</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Display in file manager</source>
-        <translation>फाइल मॅनेजरमध्ये दर्शवा</translation>
+        <translation>फाइल मॅनेजर मध्ये प्रदर्शित करा</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>मॅग्निफिअअर</translation>
+        <translation>मॅग्निफिर</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
@@ -783,12 +783,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Search</source>
-        <translation>शोध</translation>
+        <translation>प्रिंट</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Print</source>
-        <translation>प्रिंट</translation>
+        <translation>थंबनेल्स</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>थंबनेल</translation>
+        <translation>इंप्यूट लिमिट पोहोचले</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>इंप्यूट लिमिट पोहोचला</translation>
+        <translation>डॉक्युमेंट फाइल पाथ.</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>दॉक्युमेंट फाइल पाथ.</translation>
+        <translation>फाइल पाथ</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>फाइल पाथ</translation>
+        <translation>थंबनेल पाथ पाथ.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>थंबनेल पाथ पाथ.</translation>
+        <translation>थंबनेल उत्पादित करा.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>थंबनेल उत्पन्न करा.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

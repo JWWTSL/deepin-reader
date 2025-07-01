@@ -9,7 +9,7 @@
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Документын үзүүр нь документын файлуудыг унших болгох програм бөгөөд PDF, DJVU, DOCX гэх мэт үр дүнгээ үнэ цэнэгээ дэмждэг</translation>
+        <translation>Документын үзүүр нь документын файлуудыг уншиж, PDF, DJVU, DOCX гэх мэт форматуудыг подлождаг ашиглагчдад зориулагдсан үзүүр юм.</translation>
     </message>
 </context>
 <context>
@@ -22,27 +22,27 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="47"/>
         <source>Subject</source>
-        <translation>Хөндрөл</translation>
+        <translation>Төрөл</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="48"/>
         <source>Author</source>
-        <translation>Зохиогч</translation>
+        <translation>Хөтөч</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>Хүснэгт</translation>
+        <translation>Хүчирхэг үгс</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
         <source>Producer</source>
-        <translation>Үүсгэгч</translation>
+        <translation>Үүсгэсэн</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="51"/>
         <source>Creator</source>
-        <translation>Үүсгэгч</translation>
+        <translation>Үүсгэсэн</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
@@ -67,12 +67,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
         <source>Optimized</source>
-        <translation>Эрэмбэлсэн</translation>
+        <translation>Хүчирхэглэсэн</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="57"/>
         <source>Security</source>
-        <translation>Албан ёсоор</translation>
+        <translation>Хүтгэл</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
@@ -87,12 +87,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
         <source>Basic info</source>
-        <translation>Нэмэлт мэдээ</translation>
+        <translation>Бүтээгдэхүүний мэдээлэл</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
         <source>Unknown</source>
-        <translation>Хүмүүсийн хүсэл</translation>
+        <translation>Хүчирхэггүй</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>Хүснэгт нэмэх</translation>
+        <translation>Хүрээлэн нэмэх</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>Хүснэгтүүдийг нь үүсгэхээс үгүй болохыг итгэж байна уу?</translation>
+        <translation>Хүрээлэнүүдийг устгах уу?</translation>
     </message>
 </context>
 <context>
@@ -123,37 +123,37 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="39"/>
         <source>Copy</source>
-        <translation>Хуваалцах</translation>
+        <translation>Хуваах</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="43"/>
         <source>Remove annotation</source>
-        <translation>Суралцах</translation>
+        <translation>Тэмдэглэл устгах</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="44"/>
         <source>Add annotation</source>
-        <translation>Суралцах</translation>
+        <translation>Тэмдэглэл нэмэх</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>Хүснэгт устгах</translation>
+        <translation>Хүрээлэн устгах</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>Хүснэгт нэмэх</translation>
+        <translation>Хүрээлэн нэмэх</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
         <source>Highlight</source>
-        <translation>Тэмдэглэх</translation>
+        <translation>Харах</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>Тэмдэглэх</translation>
+        <translation>Харах устгах</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
@@ -163,12 +163,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>Өргөдөлдөө оох</translation>
+        <translation>Фуллскрийн хийсгүй болгох</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>Өргөдөлдөө</translation>
+        <translation>Фуллскрийн</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
@@ -193,17 +193,17 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="108"/>
         <source>Last page</source>
-        <translation>Хүчтэй хуудас</translation>
+        <translation>Сүүлчийн хуудас</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Зүүн тийш үүргэх</translation>
+        <translation>Зүүн тийш хөршлөх</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Баруун тийш үүргэх</translation>
+        <translation>Баруун тийш хөршлөх</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="121"/>
         <source>Document info</source>
-        <translation>Документын мэдээ</translation>
+        <translation>Документын мэдээлэл</translation>
     </message>
 </context>
 <context>
@@ -229,27 +229,27 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="166"/>
         <source>The format is not supported</source>
-        <translation>Формат нь дэмждэггүй</translation>
+        <translation>Формат нь дэмжигдэхгүй</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
         <source>Open failed</source>
-        <translation>Хаахад алдаа гарлаа</translation>
+        <translation>Хаахад амжилтгүй</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>Файлыг үзэхэд алдаа гарлаа</translation>
+        <translation>Файл нь зөрчигдсэн эсэхийг шалгах</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>Алдаа гарлаа, файлыг үзэхэд алдаа гарлаа</translation>
+        <translation>Шилжүүлэхэд амжилтгүй, файл нь зөрчигдсэн эсэхийг шалгах</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>Хадгалахад алдаа гарлаа</translation>
+        <translation>Хадгалахад амжилтгүй</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
@@ -270,7 +270,7 @@
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="455"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>Итгэл</translation>
+        <translation>Хүсээ</translation>
     </message>
 </context>
 <context>
@@ -278,12 +278,12 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>Документуудыг энд дарж хая</translation>
+        <translation>Документуудыг энд дуудаарай</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>Дэмждэгдсэн формат: %1</translation>
+        <translation>Формат нь дэмжигдсэн: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>Хүрээлэн нь хасагдсан</translation>
+        <translation>Хуудасны тэмдэг нь устгагдсан</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>Тэмдэглэл нь хасагдсан</translation>
+        <translation>Тэмдэглэл нь устгагдсан</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Хэлбэрчлэгдсэн файл, нууц үгээ оруулна уу</translation>
+        <translation>Шифрлэсэн файл, нууц үгээ оруулаарай</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -325,12 +325,12 @@
         <location filename="../reader/widgets/EncryptionPage.cpp" line="61"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>Итгэл</translation>
+        <translation>Хүсээ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
         <source>Wrong password</source>
-        <translation>Хүүхэд нууц үг</translation>
+        <translation>Хэвлэгдсэн үг</translation>
     </message>
 </context>
 <context>
@@ -356,7 +356,7 @@
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="43"/>
         <source>Hand Tool</source>
-        <translation>Хөөрөн хөгс</translation>
+        <translation>Хөөрөнгө</translation>
     </message>
 </context>
 <context>
@@ -364,12 +364,12 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="67"/>
         <source>Add annotation</source>
-        <translation>Хэмжээний тэмдэг</translation>
+        <translation>Аннотаци нэмэх</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>Хүүхэд нь бүх хэмжээний тэмдэгүүдийг устгахдаа итгэж байна уу?</translation>
+        <translation>Хэзээ ч амжилтгүйгээр бүх аннотациг устгахдаа итгэж байна уу?</translation>
     </message>
 </context>
 <context>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../reader/widgets/PagingWidget.cpp" line="212"/>
         <source>Invalid page number</source>
-        <translation>Хүүхэд нь хуудасны дугаар буруу</translation>
+        <translation>Буруу хуудас дугаар</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>Хөрөнгө оруулах</translation>
+        <translation>Алдаа</translation>
     </message>
 </context>
 <context>
@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>"%1"-д өөрчлөлтүүдийг хадгалахдаа итгэж байна уу?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Хувилбарыг &quot;%1&quot;-д хадгалахдаа итгэж байна уу?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -413,7 +413,7 @@
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>Хөрөнгө оруулах</translation>
+        <translation>Хадгалахгүй</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>
@@ -437,7 +437,7 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="35"/>
         <source>Two-Page View</source>
-        <translation>Хоёр хуудасны үзүүлбэр</translation>
+        <translation>Хоёр хуудасны үзүүлэлт</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="36"/>
@@ -447,17 +447,17 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>Хуудсыг үнэ цэнэгүй</translation>
+        <translation>Хуудасыг тохируулах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>Өндөрт үнэ цэнэгүй</translation>
+        <translation>Өндрийг тохируулах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>Хэмжээнд үнэ цэнэгүй</translation>
+        <translation>Хэмжээг тохируулах</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>Хайлсны үр дүнгүй</translation>
+        <translation>Хайх боломжгүй</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 нь олдсон'</translation>
+        <translation>&apos;%1 хаяг найдаж байна&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,24 +478,24 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>Энэ документ %1-д холбогдохыг хүсч байна:</translation>
+        <translation>Энэ документ %1-д холбоо барихаар байна:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>Хэрэв таны нь вэбсайтыг итгэж байвал Allow-ийг, үгүй бол Block-ийг дарна уу.</translation>
+        <translation>Хэрэв та вэбсайтыг таамаглан байна, Хүлээн зөвшөөрөх-ийг дарна уу, үгүй бол Блок-ийг дарна уу.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
         <source>Block</source>
         <comment>button</comment>
-        <translation>Блоклох</translation>
+        <translation>Блок</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
         <source>Allow</source>
         <comment>button</comment>
-        <translation>Хүсэлтэй</translation>
+        <translation>Хүлээн зөвшөөрөх</translation>
     </message>
 </context>
 <context>
@@ -503,22 +503,22 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="84"/>
         <source>Thumbnails</source>
-        <translation>Хүснэгт</translation>
+        <translation>Хуудасны нүүр</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
         <source>Catalog</source>
-        <translation>Хүснэгт</translation>
+        <translation>Каталог</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>Хүснэгт</translation>
+        <translation>Хуудасны зураг</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
         <source>Annotations</source>
-        <translation>Тэмдэглэлүүд</translation>
+        <translation>Хэмжээний тэмдэг</translation>
     </message>
 </context>
 <context>
@@ -526,7 +526,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="60"/>
         <source>Settings</source>
-        <translation>Сонголтууд</translation>
+        <translation>Санамсаргүй</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="124"/>
@@ -546,22 +546,22 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="121"/>
         <source>Page down</source>
-        <translation>Хуудас доош</translation>
+        <translation>Хуудас дээш</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="105"/>
         <source>Open</source>
-        <translation>Нээх</translation>
+        <translation>Хаах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>Хөрвөх</translation>
+        <translation>Хөөрөөрөө үлээх</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>Хөрвөөх</translation>
+        <translation>Хөөрөөрөө бууруулах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
@@ -581,7 +581,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
         <source>Thumbnails</source>
-        <translation>Хуудасны зураг</translation>
+        <translation>Хуудасны тэмдэг</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
@@ -591,32 +591,32 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>Өндөрт нэмэгдэх</translation>
+        <translation>Өндрийн хэмжээ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>Тойргын хэмжээ</translation>
+        <translation>Тойрог хэмжээ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Зүүн тийш хөрвөх</translation>
+        <translation>Зүүн тийш хувирах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Баруун тийш хөрвөх</translation>
+        <translation>Баруун тийш хувирах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>Эхний хэсэгт хөдөлгөх</translation>
+        <translation>Эхний дээр нь шилжих</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>Хувааны дээд хэсэгт хөдөлгөх</translation>
+        <translation>Хэвлэх</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
@@ -626,12 +626,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="129"/>
         <source>Hand tool</source>
-        <translation>Хөгжүүлэгч</translation>
+        <translation>Хөөрөөрөө</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="130"/>
         <source>Add bookmark</source>
-        <translation>Хуудасны тэмдэг нэмэх</translation>
+        <translation>Харагдаж буй тэмдэг нэмэх</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="143"/>
@@ -641,17 +641,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="133"/>
         <source>Magnifier</source>
-        <translation>Хүчтэй үзүүр</translation>
+        <translation>Хөөрөөрөө</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
         <source>Slide show</source>
-        <translation>Хуудасны үзүүлэлт</translation>
+        <translation>Хуудасны хөөрөөрөө</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="136"/>
         <source>Fullscreen</source>
-        <translation>Хүчтэй үзүүр</translation>
+        <translation>Хөөрөөрөө</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="140"/>
@@ -666,12 +666,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="142"/>
         <source>Paste</source>
-        <translation>Нэмэх</translation>
+        <translation>Хуваасан хөөрөөрөө</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>Хүчлэх</translation>
+        <translation>Хүчээс хойш</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
@@ -681,17 +681,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>Хялбартийг харуулах</translation>
+        <translation>Хялбарчлалыг харуулах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
         <source>Add annotation</source>
-        <translation>Шинэ нэмэлт нэмэх</translation>
+        <translation>Тэмдэглэл нэмэх</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
         <source>Highlight</source>
-        <translation>Тэмдэглэх</translation>
+        <translation>Харах</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="134"/>
@@ -709,7 +709,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="199"/>
         <source>Remove annotation</source>
-        <translation>Нэмэлт устгах</translation>
+        <translation>Тэмдэглэл устгах</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
@@ -719,7 +719,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
         <source>Remove bookmark</source>
-        <translation>Хүснэгтэйг устгах</translation>
+        <translation>Хураангуй устгах</translation>
     </message>
 </context>
 <context>
@@ -740,7 +740,7 @@
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="132"/>
         <source>It is the last page</source>
-        <translation>Хүрээний хуудас болно</translation>
+        <translation>Хойдхонд хуудас болно</translation>
     </message>
 </context>
 <context>
@@ -748,12 +748,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New window</source>
-        <translation>Шинэ болон</translation>
+        <translation>Нэвтрүүлэг хувьс</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>Шинэ таб</translation>
+        <translation>Нэвтрүүлэг таб</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
@@ -768,17 +768,17 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Display in file manager</source>
-        <translation>Файлын менежерд харуулах</translation>
+        <translation>Файлын хөгжүүлэгчид харуулах</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>Хүчлэгч</translation>
+        <translation>Хүчээс хойш</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
         <source>Tools</source>
-        <translation>Үзүүлэгч</translation>
+        <translation>Үзүүлэг</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>Хуудасны бичгийн хөрвөө</translation>
+        <translation>Хүчээс хойш</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>Нэмэгдэх хязгаар нь үнэ цэй</translation>
+        <translation>Бичих хязгаарыг хүртэл</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>Документын файлын шуудан.</translation>
+        <translation>Документын файлын шууд</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>Файлын шуудан</translation>
+        <translation>Файлын шууд</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>Хуудасны бичгийн шуудан.</translation>
+        <translation>Хүчээс хойш шууд</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>Хуудасны бичгийг үүсгэх.</translation>
+        <translation>Хүчээс хойш үүсгэх</translation>
     </message>
 </context>
 </TS>

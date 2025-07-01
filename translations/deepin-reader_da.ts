@@ -9,7 +9,7 @@
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Dokumentviewer er et værktøj til at læse dokumentfiler, som PDF, DJVU, DOCX osv.</translation>
+        <translation>Dokumentvaren er et værktøj til at læse dokumentfiler, som understøtter PDF, DJVU, DOCX osv.</translation>
     </message>
 </context>
 <context>
@@ -244,7 +244,7 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>Konvertering mislykkedes, tjek venligst om filen er skadet</translation>
+        <translation>Konvertering mislykkedes, venligst tjek, om filen er skadet</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
@@ -283,7 +283,7 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>Støttet format: %1</translation>
+        <translation>Format understøttet: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Krypteret fil, indtast venligst adgangskode</translation>
+        <translation>Krypteret fil, indtast venligst adgangskoden</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Gem ændringerne til "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Gem ændringerne til &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -478,12 +478,12 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>Denne dokument er ved at forbinde til:</translation>
+        <translation>Denne fil forsøger at forbinde til:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>Hvis du er sikker på webstedet, klik på Tillad, ellers klik på Blokér.</translation>
+        <translation>Hvis du har tillid til webstedet, klik på Tillad, ellers klik på Blokér.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
@@ -611,12 +611,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>Flyt til starten</translation>
+        <translation>Flyt til start</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>Flyt til slutningen</translation>
+        <translation>Flyt til slut</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
@@ -714,7 +714,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
         <source>Remove all</source>
-        <translation>Fjern alt</translation>
+        <translation>Fjern alle</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
@@ -735,12 +735,12 @@
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="127"/>
         <source>It is the first page</source>
-        <translation>Det er den første side</translation>
+        <translation>Det er første side</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="132"/>
         <source>It is the last page</source>
-        <translation>Det er den sidste side</translation>
+        <translation>Det er sidste side</translation>
     </message>
 </context>
 <context>
@@ -822,7 +822,7 @@
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>ThumbnailPath-sti.</translation>
+        <translation>ThumbnailPath Sti.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>

@@ -9,7 +9,7 @@
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Dokumento-vizor estas ilo por legi dokumentajn dosieron, kiu subtenas PDF, DJVU, DOCX kaj aliajn.</translation>
+        <translation>Dokumento-vizor estas ilo por legi dokumentajn dosierojn, kiu subtenas PDF, DJVU, DOCX kaj aliajn.</translation>
     </message>
 </context>
 <context>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>Klavo-vortoj</translation>
+        <translation>Klavoĉoj</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
@@ -47,12 +47,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>Tempo kiam ĝi estis kreita</translation>
+        <translation>Tempo kreita</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>Tempo kiam ĝi estis modifita</translation>
+        <translation>Tempo modifita</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="55"/>
         <source>Pages</source>
-        <translation>Pagaĵoj</translation>
+        <translation>Pajnoj</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
@@ -77,12 +77,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
         <source>Page size</source>
-        <translation>Pagaĵo-taŭgo</translation>
+        <translation>Pajnograndeco</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="60"/>
         <source>File size</source>
-        <translation>Dosiero-taŭgo</translation>
+        <translation>Dosierograndeco</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
@@ -92,12 +92,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
         <source>Unknown</source>
-        <translation>Neniu</translation>
+        <translation>Nekonata</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
         <source>Yes</source>
-        <translation>Ĵes</translation>
+        <translation>Jes</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="127"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>Aldoni markon</translation>
+        <translation>Aŭdiku</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>Ĉu vi certe volas forigi ĉiujn markojn?</translation>
+        <translation>Ĉu vi certe volas forigi ĉiujn aŭdikojn?</translation>
     </message>
 </context>
 <context>
@@ -138,12 +138,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>Forigi markon</translation>
+        <translation>Forigi aŭdikojn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>Aldoni markon</translation>
+        <translation>Aldoni aŭdikojn</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
@@ -163,17 +163,17 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>Ŝalti for</translation>
+        <translation>Ŝalti el plena ekrano</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>Ekranplena</translation>
+        <translation>Plena ekrano</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
         <source>Slide show</source>
-        <translation>Diapositivo</translation>
+        <translation>Slidoprezento</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="100"/>
@@ -183,7 +183,7 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="101"/>
         <source>Previous page</source>
-        <translation>Pretendo paĝo</translation>
+        <translation>Preta paĝo</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="107"/>
@@ -198,17 +198,17 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Turni maldekstra</translation>
+        <translation>Rotaciigi maldekstren</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Turni dekstra</translation>
+        <translation>Rotaciigi dekstren</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
         <source>Print</source>
-        <translation>Preni</translation>
+        <translation>Presi</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="121"/>
@@ -239,22 +239,22 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>Bonvolu kontrolu, ĉu la dosiero estas danĝera</translation>
+        <translation>Bonvolu kontrolli ĉu la dosiero estas malbona</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>Konvertiĝo malsukcesis, bonvolu kontrolu, ĉu la dosiero estas danĝera</translation>
+        <translation>Ŝanĝo mal sukcesa, bonvolu kontrolli ĉu la dosiero estas malbona</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>Konservi malsukcesis</translation>
+        <translation>Konservi mal sukcesa</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
         <source>Saved successfully</source>
-        <translation>Konservi sukcese</translation>
+        <translation>Konservita sukcese</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="444"/>
@@ -264,7 +264,7 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="453"/>
         <source>Invalid file name</source>
-        <translation>Nevalida dosieronomo</translation>
+        <translation>Nevalida dosiernomo</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="455"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>La marko estis forĵetita</translation>
+        <translation>La marko estis forprenita</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>La komento estis forĵetita</translation>
+        <translation>La komento estis forprenita</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Ŝifrita dosiero, bonvolu entre la pasvorto</translation>
+        <translation>Ŝifrata dosiero, bonvolu entre la pasvorton</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -330,7 +330,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
         <source>Wrong password</source>
-        <translation>Malajusta pasvorto</translation>
+        <translation>Malĝusta pasvorto</translation>
     </message>
 </context>
 <context>
@@ -343,7 +343,7 @@
     <message>
         <location filename="../reader/widgets/FindWidget.cpp" line="135"/>
         <source>Next</source>
-        <translation>Sekva</translation>
+        <translation>Posta</translation>
     </message>
 </context>
 <context>
@@ -351,7 +351,7 @@
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="35"/>
         <source>Select Text</source>
-        <translation>Selekti tekston</translation>
+        <translation>Elekti tekston</translation>
     </message>
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="43"/>
@@ -377,7 +377,7 @@
     <message>
         <location filename="../reader/widgets/PagingWidget.cpp" line="212"/>
         <source>Invalid page number</source>
-        <translation>Nevalida paĝnumero</translation>
+        <translation>Malsani paĝnumero</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>Konvertante</translation>
+        <translation>Konverti</translation>
     </message>
 </context>
 <context>
@@ -393,15 +393,15 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>Dokumento ne konserviĝis</translation>
+        <translation>Dokumento ne konservi</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Konservi la ŝanĝojn en "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Konservi la ŝanĝojn en &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -447,17 +447,17 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>Adapti paĝon</translation>
+        <translation>Adapte paĝo</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>Adapti altecon</translation>
+        <translation>Adapte alto</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>Adapti larĝon</translation>
+        <translation>Adapte larĝeco</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>Neniu serĉrezulto</translation>
+        <translation>Neniu serĉo rezultoj</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 artikoloj troviĝis'</translation>
+        <translation>&apos;%1 artikoloj trovitaj&apos;</translation>
     </message>
 </context>
 <context>
@@ -503,7 +503,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="84"/>
         <source>Thumbnails</source>
-        <translation>Miniaturej</translation>
+        <translation>Miniaturaĵoj</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
@@ -518,7 +518,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
         <source>Annotations</source>
-        <translation>Anotacioj</translation>
+        <translation>Notoj</translation>
     </message>
 </context>
 <context>
@@ -541,12 +541,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="120"/>
         <source>Page up</source>
-        <translation>Paĝo supre</translation>
+        <translation>Pagine supren</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="121"/>
         <source>Page down</source>
-        <translation>Paĝo malsupre</translation>
+        <translation>Pagine malsupren</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="105"/>
@@ -556,12 +556,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>Zoomi pli</translation>
+        <translation>Zoomi en</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>Zoomi malpli</translation>
+        <translation>Zoomi for</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
@@ -581,7 +581,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
         <source>Thumbnails</source>
-        <translation>Miniaturoj</translation>
+        <translation>Miniaturaĵoj</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
@@ -591,32 +591,32 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>Adapti altecon</translation>
+        <translation>Adapte alteco</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>Adapti larĝon</translation>
+        <translation>Adapte larĝeco</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Turi maldekstren</translation>
+        <translation>Turni maldekstra</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Turi dekstren</translation>
+        <translation>Turni dekstra</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>Movi al komenco</translation>
+        <translation>Movu al la komenco</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>Movi al fino</translation>
+        <translation>Movu al la fino</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
@@ -646,12 +646,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
         <source>Slide show</source>
-        <translation>Prezentado</translation>
+        <translation>Prezento</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="136"/>
         <source>Fullscreen</source>
-        <translation>Tuta ekranaro</translation>
+        <translation>Plena ekran</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="140"/>
@@ -661,12 +661,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="141"/>
         <source>Cut</source>
-        <translation>Forigi</translation>
+        <translation>Tagli</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="142"/>
         <source>Paste</source>
-        <translation>Primi</translation>
+        <translation>Alglui</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
@@ -676,17 +676,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
         <source>Select all</source>
-        <translation>Selekti ĉiutan</translation>
+        <translation>Selekti ĉion</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>Montri skurtojn</translation>
+        <translation>Montri skratiojn</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
         <source>Add annotation</source>
-        <translation>Aldoni komentaron</translation>
+        <translation>Aldoni komenton</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
@@ -709,12 +709,12 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="199"/>
         <source>Remove annotation</source>
-        <translation>Forigi komentaron</translation>
+        <translation>Forigi komenton</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
         <source>Remove all</source>
-        <translation>Forigi ĉiutan</translation>
+        <translation>Forigi ĉion</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
@@ -735,12 +735,12 @@
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="127"/>
         <source>It is the first page</source>
-        <translation>Ĉi tiu estas la unua paĝo</translation>
+        <translation>Ĉi tio estas la unua paĝo</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="132"/>
         <source>It is the last page</source>
-        <translation>Ĉi tiu estas la lasta paĝo</translation>
+        <translation>Ĉi tio estas la lasta paĝo</translation>
     </message>
 </context>
 <context>
@@ -773,12 +773,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>Mikroskopo</translation>
+        <translation>Mikroŝtelo</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
         <source>Tools</source>
-        <translation>Iloj</translation>
+        <translation>Instrumentoj</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
@@ -788,7 +788,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Print</source>
-        <translation>Mallapigi</translation>
+        <translation>Preni</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>Miniaturoj</translation>
+        <translation>Miniaturaĵoj</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>Dosierpado de dokumento.</translation>
+        <translation>Dokumenta dosiera viajo.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>Dosierpado</translation>
+        <translation>Dosiera viajo</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>Miniaturpado.</translation>
+        <translation>Miniaturaĵa viajo.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>Kreu miniaturon.</translation>
+        <translation>Krei miniaturaĵon.</translation>
     </message>
 </context>
 </TS>

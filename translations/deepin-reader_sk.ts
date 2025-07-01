@@ -4,12 +4,12 @@
     <message>
         <location filename="../reader/Application.cpp" line="39"/>
         <source>Document Viewer</source>
-        <translation>Prehliadač dokumentov</translation>
+        <translation>Dokumentový prehliadač</translation>
     </message>
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Prehliadač dokumentov je nástroj na čítanie súborov dokumentov, podporuje PDF, DJVU, DOCX atď.</translation>
+        <translation>Dokumentový prehliadač je nástroj na prehliadanie súborov dokumentov, podporuje PDF, DJVU, DOCX atď.</translation>
     </message>
 </context>
 <context>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="51"/>
         <source>Creator</source>
-        <translation>Vytvoriť</translation>
+        <translation>Vytvárač</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>Pridať zápisník</translation>
+        <translation>Pridať zápis</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>Naozaj chcete vymazať všetky zápisníky?</translation>
+        <translation>Naozaj chcete všetky zápis zmaazať?</translation>
     </message>
 </context>
 <context>
@@ -138,37 +138,37 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>Odstrániť zápisník</translation>
+        <translation>Odstrániť zápis</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>Pridať zápisník</translation>
+        <translation>Pridať zápis</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
         <source>Highlight</source>
-        <translation>Zvýčiarkovať</translation>
+        <translation>Zvýrazniť</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>Odstrániť zvýčiarkovanie</translation>
+        <translation>Odstrániť zvýraznenie</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
         <source>Search</source>
-        <translation>Vyhľadať</translation>
+        <translation>Hľadať</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>Opusti plný obraz</translation>
+        <translation>Opustiť plnoekrantový režim</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>Plný obraz</translation>
+        <translation>Plnoekrantový režim</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
@@ -198,12 +198,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Otoči doľava</translation>
+        <translation>Otočiť vľavo</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Otoči doprava</translation>
+        <translation>Otočiť vpravo</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
@@ -239,12 +239,12 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>Skontrolujte, či je súbor poškodený</translation>
+        <translation>Skontrolujte, či súbor nie je poškodený</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>Prekonverzia zlyhala, skontrolujte, či je súbor poškodený</translation>
+        <translation>Konverzia zlyhala, skontrolujte, či súbor nie je poškodený</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
@@ -296,17 +296,17 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>Zaznamenanie bolo odstránené</translation>
+        <translation>Zakladu bol odstránený</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
         <source>Please select the text</source>
-        <translation>Vyberte text</translation>
+        <translation>Prosím, vyberte text</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>Poznámka bolo odstránené</translation>
+        <translation>Poznámka bola odstránená</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Šifrovaný súbor, prosím, zadajte heslo</translation>
+        <translation>Zašifrovaný súbor, prosím, zadajte heslo</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -369,7 +369,7 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>Naozaj chcete vymazať všetky poznámky?</translation>
+        <translation>Naozaj chcete všetky poznámky vymazať?</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>Prebieha konverzia</translation>
+        <translation>Konverzia</translation>
     </message>
 </context>
 <context>
@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Uložiť zmeny do "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Uložiť zmeny do &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>Žiadne výsledky hľadania</translation>
+        <translation>Žiadne výsledky vyhľadávania</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 položiek nájdených'</translation>
+        <translation>&apos;%1 položiek nájdených&apos;</translation>
     </message>
 </context>
 <context>
@@ -513,7 +513,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>Záložky</translation>
+        <translation>Zálohy</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
@@ -541,12 +541,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="120"/>
         <source>Page up</source>
-        <translation>Strana nahor</translation>
+        <translation>Strana hore</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="121"/>
         <source>Page down</source>
-        <translation>Strana nadol</translation>
+        <translation>Strana dole</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="105"/>
@@ -561,7 +561,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>Oddialiť</translation>
+        <translation>Odobrať</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
@@ -586,17 +586,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
         <source>1:1 size</source>
-        <translation>1:1 veľkosť</translation>
+        <translation>1:1 ve ľa</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>Pridobiť výšku</translation>
+        <translation>Prispôsobiť výšku</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>Pridobiť šírku</translation>
+        <translation>Prispôsobiť šírku</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
@@ -641,7 +641,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="133"/>
         <source>Magnifier</source>
-        <translation>Pomedzovka</translation>
+        <translation>Zväčšovací nástroj</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
@@ -671,7 +671,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>Späť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
@@ -686,7 +686,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
         <source>Add annotation</source>
-        <translation>Pridať poznámku</translation>
+        <translation>Pridať poznámkovanie</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
@@ -709,7 +709,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="199"/>
         <source>Remove annotation</source>
-        <translation>Odstrániť poznámku</translation>
+        <translation>Odstrániť poznámkovanie</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>Nový panel</translation>
+        <translation>Nový tab</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
@@ -773,7 +773,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>Pomocný zväčšovač</translation>
+        <translation>Pomocný objektív</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
@@ -783,12 +783,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Search</source>
-        <translation>Hľadať</translation>
+        <translation>Tlač</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Print</source>
-        <translation>Tlač</translation>
+        <translation>Náhľady</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>Náhľady</translation>
+        <translation>Bol dosiahnutý limit vstupu</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>Bol dosiahnutý limit vstupu</translation>
+        <translation>Cesta k súboru dokumentu.</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>Cesta k súboru dokumentu.</translation>
+        <translation>Cesta k súboru</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>Cesta k súboru</translation>
+        <translation>Cesta k náhľadu.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>Cesta k náhľadu.</translation>
+        <translation>Generovať náhľad.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>Generovať náhľad.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

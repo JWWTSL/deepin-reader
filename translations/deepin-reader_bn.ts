@@ -279,17 +279,17 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>ডকুমেন্ট গুলি এখানে টানুন</translation>
+        <translation>ডকুমেন্ট গুলি এখানে খাঁড়ুন</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>যে ফরমেট সমর্থিত: %1</translation>
+        <translation>ফরম্যাট সমর্থিত: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
         <source>Select File</source>
-        <translation>ফাইল নির্বাচন করুন</translation>
+        <translation>ফাইল বাছাই করুন</translation>
     </message>
 </context>
 <context>
@@ -297,17 +297,17 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>আপনার বুকমার্ক অপসারণ করা হয়েছে</translation>
+        <translation>টোকেন অপসারণ করা হয়েছে</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
         <source>Please select the text</source>
-        <translation>দয়া করে টেক্সট নির্বাচন করুন</translation>
+        <translation>দয়া করে টেক্সট বাছাই করুন</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>আপনার অ্যানোটেশন অপসারণ করা হয়েছে</translation>
+        <translation>টীকা অপসারণ করা হয়েছে</translation>
     </message>
 </context>
 <context>
@@ -315,12 +315,12 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>কী সম্প্রসারিত ফাইল, দয়া করে কী লিখুন</translation>
+        <translation>ক্রিপ্টো ফাইল, দয়া করে পাসওয়ার্ড প্রবেশ করুন</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
         <source>Password</source>
-        <translation>কী</translation>
+        <translation>পাসওয়ার্ড</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="61"/>
@@ -331,7 +331,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
         <source>Wrong password</source>
-        <translation>ভুল কী</translation>
+        <translation>ভুল পাসওয়ার্ড</translation>
     </message>
 </context>
 <context>
@@ -352,7 +352,7 @@
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="35"/>
         <source>Select Text</source>
-        <translation>টেক্সট নির্বাচন করুন</translation>
+        <translation>টেক্সট বাছাই করুন</translation>
     </message>
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="43"/>
@@ -370,7 +370,7 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>আপনি সব অ্যানোটেশন মুছে ফেলতে চান কি?</translation>
+        <translation>আপনি সত্যি কি সব টীকা মুছে ফেলতে চান?</translation>
     </message>
 </context>
 <context>
@@ -394,15 +394,15 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>ডকুমেন্ট সংরক্ষণ করা হয়নি</translation>
+        <translation>ডকুমেন্ট বাঁচানো হয়নি</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>"%1" ফাইলে পরিবর্তনগুলি সংরক্ষণ করতে চান কি?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>&quot;%1&quot; এ পরিবর্তন সংরক্ষণ করবেন কি?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -414,7 +414,7 @@
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>বাতিল করুন</translation>
+        <translation>ছাড়ানো</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>

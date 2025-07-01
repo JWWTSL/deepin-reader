@@ -4,12 +4,12 @@
     <message>
         <location filename="../reader/Application.cpp" line="39"/>
         <source>Document Viewer</source>
-        <translation>ڈاکیومٹ ویوئر</translation>
+        <translation>ڈاکیمنٹ ویوئر</translation>
     </message>
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>ڈاکیومٹ ویوئر ایک ڈاکیومٹ فائل کے پڑھنے کے لئے ایک اداľ کے طور پر استعمال ہوتا ہے، جو PDF، DJVU، DOCX وغیرہ کو سپورٹ کرتا ہے۔</translation>
+        <translation>ڈاکیمنٹ ویوئر ایک ڈاکیمنٹ فائل پڑھنے کا اداľ کرتا ہے، جو PDF، DJVU، DOCX جیسے فارمیٹس کو سپورٹ کرتا ہے۔</translation>
     </message>
 </context>
 <context>
@@ -32,27 +32,27 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>کیویورڈز</translation>
+        <translation>کیور</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
         <source>Producer</source>
-        <translation>پروڈیوسر</translation>
+        <translation>مصنوع</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="51"/>
         <source>Creator</source>
-        <translation>کریٹر</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>ایجاد کی گئی تاریخ</translation>
+        <translation>ایجاد کی گئی ٹائم</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>تبدیل کی گئی تاریخ</translation>
+        <translation>تبدیل کی گئی ٹائم</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
         <source>Optimized</source>
-        <translation>اپٹمائزڈ</translation>
+        <translation>اپٹیمائزڈ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="57"/>
@@ -77,17 +77,17 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
         <source>Page size</source>
-        <translation>صفحہ کا سائز</translation>
+        <translation>صفحہ کی سایز</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="60"/>
         <source>File size</source>
-        <translation>فائل کا سائز</translation>
+        <translation>فائل کی سایز</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
         <source>Basic info</source>
-        <translation>اولیا تفصیلات</translation>
+        <translation>اساسی اطلاعات</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
@@ -115,7 +115,7 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>کیا آپ تمام bookmarks حذف کرنے کے لئے یقین رکھتے ہیں؟</translation>
+        <translation>کیا آپ یہ چاہتے ہیں کہ تمام bookmarks حذف کر دیے جائیں؟</translation>
     </message>
 </context>
 <context>
@@ -123,22 +123,22 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="39"/>
         <source>Copy</source>
-        <translation>کاپی</translation>
+        <translation>کاپی کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="43"/>
         <source>Remove annotation</source>
-        <translation>اےنوتیشن ہٹا دیں</translation>
+        <translation> annotate حذف کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="44"/>
         <source>Add annotation</source>
-        <translation>اےنوتیشن اضافہ کریں</translation>
+        <translation> annotate اضافہ کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>bookmark ہٹا دیں</translation>
+        <translation>bookmark حذف کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
@@ -153,17 +153,17 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>ہائیلائٹ ہٹا دیں</translation>
+        <translation>ہائیلائٹ حذف کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
         <source>Search</source>
-        <translation>تلاش کریں</translation>
+        <translation> تلاش کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation> fullscreen سے باہر جانا</translation>
+        <translation> fullscreen سے باہر</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
@@ -173,22 +173,22 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
         <source>Slide show</source>
-        <translation>سلايد شو</translation>
+        <translation> slideshow</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="100"/>
         <source>First page</source>
-        <translation>پہلی صفحہ</translation>
+        <translation> پہلا صفحہ</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="101"/>
         <source>Previous page</source>
-        <translation>پہلی صفحہ</translation>
+        <translation> پچھل صفحہ</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="107"/>
         <source>Next page</source>
-        <translation>اگلی صفحہ</translation>
+        <translation> اگل صفحہ</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="108"/>
@@ -198,22 +198,22 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>بائیں کریں</translation>
+        <translation> بائیں کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>دیسی کریں</translation>
+        <translation> دائیں کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
         <source>Print</source>
-        <translation>چھپائی</translation>
+        <translation> پرنٹ کریں</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="121"/>
         <source>Document info</source>
-        <translation>ڈاکومنٹ ایڈیٹ</translation>
+        <translation> دستاویز معلومات</translation>
     </message>
 </context>
 <context>
@@ -221,7 +221,7 @@
     <message>
         <location filename="../reader/uiframe/Central.cpp" line="147"/>
         <source>Documents</source>
-        <translation>ڈاکومنٹس</translation>
+        <translation> دستاویزات</translation>
     </message>
 </context>
 <context>
@@ -229,37 +229,37 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="166"/>
         <source>The format is not supported</source>
-        <translation>فرمیٹ سپورٹ نہیں کیا جاسکتا</translation>
+        <translation> فارمیٹ سپورٹ نہیں کیا جاسکتا</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
         <source>Open failed</source>
-        <translation>open failed</translation>
+        <translation> اپنائی ناکام</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>کیا فائل متاع کی ہے</translation>
+        <translation> کیا کریں کہ فائل نقصان کرچکی ہے</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>کنورٹیشن فیلڈ، کیا فائل متاع کی ہے</translation>
+        <translation> تبدیلی ناکام ہوگئی، کیا کریں کہ فائل نقصان کرچکی ہے</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>بچانے میں کامیاب نہ ہو سکا</translation>
+        <translation> ذخیرہ کرنا ناکام</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
         <source>Saved successfully</source>
-        <translation>کامیابی سے بچا دیا گیا</translation>
+        <translation> کامیابی سے ذخیرہ کر دیا گیا</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="444"/>
         <source>Save as</source>
-        <translation>بچا کرے</translation>
+        <translation> ذخیرہ کریں کے طور پر</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="453"/>
@@ -270,7 +270,7 @@
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="455"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>ٹیک</translation>
+        <translation> ٹھیک ہے</translation>
     </message>
 </context>
 <context>
@@ -278,17 +278,17 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>ڈاکومنٹس یہاں ڈراگ کریں</translation>
+        <translation> دستاویزات یہاں ڈراگ کریں</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>فرمیٹ سپورٹ ہے: %1</translation>
+        <translation> فارمیٹ سپورٹ ہے: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
         <source>Select File</source>
-        <translation>فائل کا انتخاب کریں</translation>
+        <translation> فائل کا انتخاب کریں</translation>
     </message>
 </context>
 <context>
@@ -296,17 +296,17 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>bookmark ہٹا دیا گیا ہے</translation>
+        <translation> bookmark ہٹا دیا گیا ہے</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
         <source>Please select the text</source>
-        <translation>کیا ٹیکسٹ کا انتخاب کریں</translation>
+        <translation> کیا کریں کہ متن کا انتخاب کریں</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>annotation ہٹا دیا گیا ہے</translation>
+        <translation> نوٹ ہٹا دیا گیا ہے</translation>
     </message>
 </context>
 <context>
@@ -314,18 +314,18 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>انکریپٹڈ فائل، پاس ورڈ داخل کریں</translation>
+        <translation> ایک کیفیڈ فائل ہے، کیا کریں کہ پاس ورڈ درج کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
         <source>Password</source>
-        <translation>پاس ورڈ</translation>
+        <translation> پاس ورڈ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="61"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>ٹیک</translation>
+        <translation> ٹھیک ہے</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
@@ -343,7 +343,7 @@
     <message>
         <location filename="../reader/widgets/FindWidget.cpp" line="135"/>
         <source>Next</source>
-        <translation>اگلی</translation>
+        <translation>اگلے</translation>
     </message>
 </context>
 <context>
@@ -364,12 +364,12 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="67"/>
         <source>Add annotation</source>
-        <translation>Annotation اضافہ کریں</translation>
+        <translation>ANNOTATION اڈیں</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>کیا آپ تمام اینوتیشن حذف کرنے کے لئے یقین رکھتے ہیں؟</translation>
+        <translation>کیا آپ تمام ANNOTATIONS ہٹانے کے لیے یقین کریں؟</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>کنورٹ کر رہے ہیں</translation>
+        <translation>کنورٹ کرنا</translation>
     </message>
 </context>
 <context>
@@ -393,38 +393,38 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>ڈاکیومنٹ نہیں بچا گیا</translation>
+        <translation>ڈاکیمینٹ نہیں بچایا گیا</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation> "%1" میں تبدیلیوں کو بچا لیں؟</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation> &quot;%1&quot; میں تبدیلیوں کو بچائیں؟</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Cancel</source>
         <comment>button</comment>
-        <translation>انسٹال کریں</translation>
+        <translation>انصراف</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>تھونڈ کریں</translation>
+        <translation>تھوڑا کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>
         <source>Save</source>
         <comment>button</comment>
-        <translation>بچا لیں</translation>
+        <translation>بچائیں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="49"/>
         <source>Cancel</source>
-        <translation>انسٹال کریں</translation>
+        <translation>انصراف</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="50"/>
@@ -437,7 +437,7 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="35"/>
         <source>Two-Page View</source>
-        <translation>دو صفحہ نظر</translation>
+        <translation>دو صفحہ نظریہ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="36"/>
@@ -452,7 +452,7 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>آ高度 کے مطابق</translation>
+        <translation>اونچائی کے مطابق</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>تلاش کے نتائج نہیں ہیں</translation>
+        <translation>سرچ نتائج نہیں ملے</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 آئٹم ملے ہیں'</translation>
+        <translation>&apos;%1 آئٹم ملے&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,12 +478,12 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>یہ ڈاکیومنٹ کسی سے کنکشن کر رہا ہے:</translation>
+        <translation>یہ ڈاکیمینٹ کسی سے کنکشن کرنے کی کوشش کر رہا ہے:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>اگر آپ ویب سائٹ کو اعتماد کرتے ہیں، Allow کلک کریں، اوریں Block کلک کریں۔</translation>
+        <translation>اگر آپ ویب سائٹ کو اعتماد کرتے ہیں تو Allow کلک کریں، اور اگر نہیں تو Block کلک کریں۔</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
@@ -495,7 +495,7 @@
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
         <source>Allow</source>
         <comment>button</comment>
-        <translation>ایلائو</translation>
+        <translation>اپرویچ</translation>
     </message>
 </context>
 <context>
@@ -508,12 +508,12 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
         <source>Catalog</source>
-        <translation>کیتالوج</translation>
+        <translation>کیٹلوج</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>bookmark</translation>
+        <translation>بوکمارکس</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
@@ -531,12 +531,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="124"/>
         <source>Exit</source>
-        <translation>خراج</translation>
+        <translation>خاتم</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="100"/>
         <source>Help</source>
-        <translation>مددہ</translation>
+        <translation>مدد</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="120"/>
@@ -551,32 +551,32 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="105"/>
         <source>Open</source>
-        <translation>open</translation>
+        <translation>آپن</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>Zoom داخل</translation>
+        <translation>Zoom ان</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>Zoom باہر</translation>
+        <translation>Zoom آؤٹ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
         <source>Save as</source>
-        <translation>ذخیرہ کریں جیسے</translation>
+        <translation>سیو کے طور پر</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="107"/>
         <source>Print</source>
-        <translation>چھپائی</translation>
+        <translation>پرنٹ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="108"/>
         <source>Save</source>
-        <translation>ذخیرہ کریں</translation>
+        <translation>سیو</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
@@ -586,47 +586,47 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
         <source>1:1 size</source>
-        <translation>1:1 سائز</translation>
+        <translation>1:1 گھر</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>آسمان کی بلندی</translation>
+        <translation>آدمی چوڑائی</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>چوڑائی</translation>
+        <translation>آدمی چوڑائی</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>چھوٹے چھوٹے چھوٹے</translation>
+        <translation>چھوٹا چھوٹا کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>بڑے چھوٹے چھوٹے</translation>
+        <translation>بڑا چھوٹا کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>شروع کریں</translation>
+        <translation>شروعات میں منتقل کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
         <source>Move to the end</source>
-        <translation>ختم کریں</translation>
+        <translation> آخر میں منتقل کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="128"/>
         <source>Select text</source>
-        <translation>متن کا انتخاب کریں</translation>
+        <translation>ٹیکسٹ منتخب کریں</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="129"/>
         <source>Hand tool</source>
-        <translation>ہینڈ ٹول</translation>
+        <translation>ہنڈ ٹول</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="130"/>
@@ -671,17 +671,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>انسخ</translation>
+        <translation>گریز</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
         <source>Select all</source>
-        <translation>تم اختيار الكل</translation>
+        <translation>کریکل</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>کٹ کریں نمایاں کریں</translation>
+        <translation>کمیٹی کی دکھاوا</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
@@ -691,12 +691,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
         <source>Highlight</source>
-        <translation>ہائی لائٹ کریں</translation>
+        <translation>اہمیت دکھاوا</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="134"/>
         <source>Search</source>
-        <translation>تلاش کریں</translation>
+        <translation>تلاش</translation>
     </message>
 </context>
 <context>
@@ -704,22 +704,22 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="194"/>
         <source>Copy</source>
-        <translation>کاپی کریں</translation>
+        <translation>کاپی</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="199"/>
         <source>Remove annotation</source>
-        <translation>توضیح ہٹا دیں</translation>
+        <translation>توضیح حذف کریں</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="204"/>
         <source>Remove all</source>
-        <translation>ہر چیز ہٹا دیں</translation>
+        <translation>سب حذف کریں</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
         <source>Remove bookmark</source>
-        <translation>bookmark ہٹا دیں</translation>
+        <translation>bookmark حذف کریں</translation>
     </message>
 </context>
 <context>
@@ -735,7 +735,7 @@
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="127"/>
         <source>It is the first page</source>
-        <translation>یہ پہلی صفحہ ہے</translation>
+        <translation>یہ پہلا صفحہ ہے</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SlidePlayWidget.cpp" line="132"/>
@@ -748,32 +748,32 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New window</source>
-        <translation>نیا ونڈو</translation>
+        <translation>نیو ونڈو</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>نیا ٹیب</translation>
+        <translation>نیو ٹب</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
         <source>Save</source>
-        <translation>ذخیرہ کریں</translation>
+        <translation>سیو</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
         <source>Save as</source>
-        <translation>ذخیرہ کریں جیسے</translation>
+        <translation>سیو کیس</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Display in file manager</source>
-        <translation>فائل ڈیٹا کے ساتھ نمایاں کریں</translation>
+        <translation>فائل منیجر میں دکھاوا</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>میگنیفر</translation>
+        <translation>ماگنیفر</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
@@ -783,12 +783,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Search</source>
-        <translation>تلاش کریں</translation>
+        <translation>تلاش</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Print</source>
-        <translation>پرنٹ کریں</translation>
+        <translation>پرنٹ</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>thumbnail</translation>
+        <translation>Thumbnail</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>آپ کی ورچو کی مقدار کا محدودیت حاصل ہو گئی ہے</translation>
+        <translation>اینٹر چیک لیمیٹ پہنچ گیا</translation>
     </message>
 </context>
 <context>
@@ -812,7 +812,7 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>ڈاکیومنٹ فائل پتہ.</translation>
+        <translation>ڈاکیومنٹ فائل پتہ۔</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
@@ -822,12 +822,12 @@
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>thumbnailpath پتہ.</translation>
+        <translation>ThumbnailPath پتہ۔</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>thumbnail تیار کریں۔</translation>
+        <translation>Thumbnail تیار کریں۔</translation>
     </message>
 </context>
 </TS>

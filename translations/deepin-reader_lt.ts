@@ -279,7 +279,7 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>Pakelkite dokumentus čia</translation>
+        <translation>Krauti dokumentus čia</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
@@ -297,7 +297,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>Žymė buvo pašalinama</translation>
+        <translation>Žymė buvo pašalinta</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
@@ -307,7 +307,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>Pastaba buvo pašalinama</translation>
+        <translation>Pastaba buvo pašalinta</translation>
     </message>
 </context>
 <context>
@@ -315,7 +315,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Šifravimo failas, prašome įvesti slaptažodį</translation>
+        <translation>Šifruotas failas, prašome įvesti slaptažodį</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -370,7 +370,7 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>Ar tikrai norite pašalinti visas pastabas?</translation>
+        <translation>Ar tikrai norite ištrinti visas pastabas?</translation>
     </message>
 </context>
 <context>
@@ -378,7 +378,7 @@
     <message>
         <location filename="../reader/widgets/PagingWidget.cpp" line="212"/>
         <source>Invalid page number</source>
-        <translation>Nesukurta puslapis</translation>
+        <translation>Neteisingas puslapio numeris</translation>
     </message>
 </context>
 <context>
@@ -401,8 +401,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Įrašyti pakeitimus į "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Išsaugoti pakeitimus failo &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>

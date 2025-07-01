@@ -9,7 +9,7 @@
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Document Viewer este un instrument pentru citirea fișierelor de documente, susținând PDF, DJVU, DOCX etc.</translation>
+        <translation>Document Viewer este un instrument pentru citirea fișierelor de documente, suportând PDF, DJVU, DOCX etc.</translation>
     </message>
 </context>
 <context>
@@ -385,7 +385,7 @@
     <message>
         <location filename="../reader/widgets/ProgressDialog.cpp" line="18"/>
         <source>Converting</source>
-        <translation>Se convertește</translation>
+        <translation>Conversie</translation>
     </message>
 </context>
 <context>
@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Salvați modificările în "%1"?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Salvați modificările în &quot;%1&quot;?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -483,7 +483,7 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>Dacă aveți încredere în site, faceți clic pe Allow, altfel faceți clic pe Block.</translation>
+        <translation>Dacă aveți încredere în site, apăsați Allow, altfel apăsați Block.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>

@@ -4,12 +4,12 @@
     <message>
         <location filename="../reader/Application.cpp" line="39"/>
         <source>Document Viewer</source>
-        <translation>დოკუმენტის მოხსენიება</translation>
+        <translation>დოკუმენტის მომხმარებელი</translation>
     </message>
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>დოკუმენტის მოხსენიება არის ინსტრუმენტი დოკუმენტური ფაილების წაკითხვისთვის, რომელიც მხარდაჭერის ფორმატებს ასახავს, როგორც PDF, DJVU, DOCX და ა.შ.</translation>
+        <translation>დოკუმენტის მომხმარებელი არის ინსტრუმენტი დოკუმენტების ფაილების წაკითხვისთვის, რომელიც მხარს უჭერს PDF, DJVU, DOCX და ასე შემდეგს.</translation>
     </message>
 </context>
 <context>
@@ -22,7 +22,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="47"/>
         <source>Subject</source>
-        <translation>განსაზღვრული საგნი</translation>
+        <translation>საგნები</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="48"/>
@@ -32,27 +32,27 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>სავარაუდო სიტყვები</translation>
+        <translation>სასარგებლო სიტყვები</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
         <source>Producer</source>
-        <translation>აპროდუსერი</translation>
+        <translation>არსებული მომხმარებელი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="51"/>
         <source>Creator</source>
-        <translation>შემქმნელი</translation>
+        <translation>შექმნილი მომხმარებელი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>დრო შექმნისას</translation>
+        <translation>შექმნის დრო</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>დრო განახლებისას</translation>
+        <translation>რედაქტირების დრო</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
@@ -67,12 +67,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
         <source>Optimized</source>
-        <translation>გაუმჯობესებული</translation>
+        <translation>გასაუმჯ wohl მოსალოდნებლად</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="57"/>
         <source>Security</source>
-        <translation>უსაფრთხელება</translation>
+        <translation>სიგნალი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
         <source>Basic info</source>
-        <translation>საბაზისრი ინფორმაცია</translation>
+        <translation>საბაზისო ინფორმაცია</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>მარკერის დამატება</translation>
+        <translation>ბომბის დამატება</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>თქვენ დარწმუნებული ხართ, რომ გსურთ ყველა მარკერის წაშლა?</translation>
+        <translation>თქვენ დამადაგეთ ყველა ბომბის წაშლა?</translation>
     </message>
 </context>
 <context>
@@ -123,12 +123,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="39"/>
         <source>Copy</source>
-        <translation>კოპირება</translation>
+        <translation>kopირება</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="43"/>
         <source>Remove annotation</source>
-        <translation>ანნოტაციის წაშლა</translation>
+        <translation>ანნოტაციზე გამოსაშლელი</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="44"/>
@@ -138,42 +138,42 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>მარკერის წაშლა</translation>
+        <translation>ბომბის წაშლა</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>გამარკერება</translation>
+        <translation>ბომბის დამატება</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
         <source>Highlight</source>
-        <translation>გამარკერების წაშლა</translation>
+        <translation>გამარკება</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>ძებნა</translation>
+        <translation>გამარკების წაშლა</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>ძიება</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>სარედაქტირებლად გამოსაშვილი</translation>
+        <translation>სრული ეკრანის გასვლა</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>სარედაქტირებლად სრული ეკრანი</translation>
+        <translation>სრვლის ეკრანი</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
         <source>Slide show</source>
-        <translation>სლაიდების გამოსაშვილი</translation>
+        <translation>სლაიდის შოველი</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="100"/>
@@ -198,17 +198,17 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>მარცხნივ ბრუნვა</translation>
+        <translation>მარცხნა მობრუნება</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>მარჯვნივ ბრუნვა</translation>
+        <translation>მარჯვენა მობრუნება</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
         <source>Print</source>
-        <translation>დაბეჭდვა</translation>
+        <translation>პრინტი</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="121"/>
@@ -239,12 +239,12 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>გთხოვთ შეამოწმოთ ფაილის დაზიანების გამოყოფის შემთხვევაში</translation>
+        <translation>გთხოვთ შეამოწმოთ ფაილის დაზიანების შემთხვევაში</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>კონვერსია შეუძლებელია, გთხოვთ შეამოწმოთ ფაილის დაზიანების გამოყოფის შემთხვევაში</translation>
+        <translation>კონვერსია შეუძლებელია, გთხოვთ შეამოწმოთ ფაილის დაზიანების შემთხვევაში</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
@@ -254,7 +254,7 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
         <source>Saved successfully</source>
-        <translation>წარმატებით შენახულია</translation>
+        <translation>შენახულია წარმატებით</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="444"/>
@@ -264,13 +264,13 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="453"/>
         <source>Invalid file name</source>
-        <translation>ვალიდური არ არის ფაილის სახელი</translation>
+        <translation>უნარად ფაილის სახელი</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="455"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>დიახ</translation>
+        <translation>კი</translation>
     </message>
 </context>
 <context>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>სათამაშო მარკერი წაშლილია</translation>
+        <translation>სადიდი სახელი წაშლილია</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>ანნოტაცია წაშლილია</translation>
+        <translation>კომენტარი წაშლილია</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>შიფრდა ფაილი, გთხოვთ შეიყვანოთ პაროლი</translation>
+        <translation>შიდა დასაშიფარის ფაილი, გთხოვთ შეიყვანოთ პაროლი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -325,12 +325,12 @@
         <location filename="../reader/widgets/EncryptionPage.cpp" line="61"/>
         <source>OK</source>
         <comment>button</comment>
-        <translation>დიახ</translation>
+        <translation>კი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="105"/>
         <source>Wrong password</source>
-        <translation>არასწორი პაროლი</translation>
+        <translation>გამართული პაროლი</translation>
     </message>
 </context>
 <context>
@@ -351,7 +351,7 @@
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="35"/>
         <source>Select Text</source>
-        <translation>ტექსტის არჩევა</translation>
+        <translation>ტექსტის შერჩევა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/HandleMenu.cpp" line="43"/>
@@ -369,7 +369,7 @@
     <message>
         <location filename="../reader/sidebar/NotesWidget.cpp" line="189"/>
         <source>Are you sure you want to delete all annotations?</source>
-        <translation>დარწმუნებული ხართ, რომ გსურთ წაშალოთ ყველა ანნოტაცია?</translation>
+        <translation>თქვენ დარწმუნებული ხართ, რომ გსურთ წაშალოთ ყველა ანნოტაცია?</translation>
     </message>
 </context>
 <context>
@@ -393,15 +393,15 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>დოკუმენტი არ არის შენახული</translation>
+        <translation>დოკუმენტი არ შეინახა</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>შენახული განახლებები "%1"-ისთვის?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>შეინახოთ ცვლებები &quot;%1&quot;-ში?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -413,7 +413,7 @@
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>გადატარება</translation>
+        <translation>გადატანა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>
@@ -429,7 +429,7 @@
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="50"/>
         <source>Delete</source>
-        <translation>წაშლა</translation>
+        <translation>წაშალება</translation>
     </message>
 </context>
 <context>
@@ -437,7 +437,7 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="35"/>
         <source>Two-Page View</source>
-        <translation>ორგვერდიანი ხედვა</translation>
+        <translation>ორი გვერდის ხედვა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="36"/>
@@ -447,17 +447,17 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>გვერდის შესასწორებლად</translation>
+        <translation>გვერდის ზომის შესასაბამისად</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>სიმაღლის შესასწორებლად</translation>
+        <translation>სიმაღლის შესასაბამისად</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>სიგანის შესასწორებლად</translation>
+        <translation>სიგარმის შესასაბამისად</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>ძებნის შედეგები არ არის</translation>
+        <translation>არ არის ძებნის შედეგები</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 მიმართულება მოიძებნა'</translation>
+        <translation>&apos;%1 ნივთი მოიძებნა&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,24 +478,24 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>ამ დოკუმენტს სცადა შეესაერთოს:</translation>
+        <translation>ეს დოკუმენტი სცადებს შეესაბამდებოდეს:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>თუ მომხმარებელს საკმარისია ვებგვერდი, დააჭირეთ Allow, საწინააღმდეგოდ დააჭირეთ Block.</translation>
+        <translation>თუ დარწმუნებული ხართ ვებსაიტზე, დააწკაპუნეთ საკითხი, მაშინ დააწკაპუნეთ დაბლოკება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
         <source>Block</source>
         <comment>button</comment>
-        <translation>დამალება</translation>
+        <translation>დაბლოკება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
         <source>Allow</source>
         <comment>button</comment>
-        <translation>დაშვება</translation>
+        <translation>საკითხი</translation>
     </message>
 </context>
 <context>
@@ -503,7 +503,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="84"/>
         <source>Thumbnails</source>
-        <translation>მიმართულებების სურათები</translation>
+        <translation>სურათები</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="99"/>
@@ -513,7 +513,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>მიმართულებები</translation>
+        <translation>მარკერები</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
@@ -531,7 +531,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="124"/>
         <source>Exit</source>
-        <translation>გასვლა</translation>
+        <translation>გასასვლელი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="100"/>
@@ -541,7 +541,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="120"/>
         <source>Page up</source>
-        <translation>გვერდი ზემოთ</translation>
+        <translation>გვერდი ზედა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="121"/>
@@ -556,22 +556,22 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>მაგნიტის გაზარდება</translation>
+        <translation>გადიდება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>მაგნიტის შემცირება</translation>
+        <translation>გადიდების შეწყვიტვა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
         <source>Save as</source>
-        <translation>შენახვა როგორც</translation>
+        <translation>შენახვა როგორ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="107"/>
         <source>Print</source>
-        <translation>დასაბეჭდი</translation>
+        <translation>პრინტი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="108"/>
@@ -581,7 +581,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="112"/>
         <source>Thumbnails</source>
-        <translation>მცირე სურათები</translation>
+        <translation>მსულები</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="113"/>
@@ -591,27 +591,27 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="114"/>
         <source>Fit height</source>
-        <translation>სისქეს შესასწორება</translation>
+        <translation>ზომის შესასწორებლად სიმაღლე</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="115"/>
         <source>Fit width</source>
-        <translation>სიგანეს შესასწორება</translation>
+        <translation>ზომის შესასწორებლად სიგარის ზომა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>გაბრუნება მარცხნავ</translation>
+        <translation>გაბრუნება მარცხნივ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>გაბრუნება უკან მიმართული</translation>
+        <translation>გაბრუნება მარჯვნივ</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
         <source>Move to the beginning</source>
-        <translation>გადატანა დასაწყისში</translation>
+        <translation>გადატანა საწყისში</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="123"/>
@@ -631,7 +631,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="130"/>
         <source>Add bookmark</source>
-        <translation>მარკერის დამატება</translation>
+        <translation>ბუკმარკის დასამატებლად</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="143"/>
@@ -641,17 +641,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="133"/>
         <source>Magnifier</source>
-        <translation>მაგნიტი</translation>
+        <translation>მაგნიტის საშინარი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
         <source>Slide show</source>
-        <translation>სლაიდების ჩვენება</translation>
+        <translation>სლაიდის ნაჩვენება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="136"/>
         <source>Fullscreen</source>
-        <translation>სრული ზომი</translation>
+        <translation>სრული ეკრანი</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="140"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="141"/>
         <source>Cut</source>
-        <translation>გადაკეტვა</translation>
+        <translation>გადაკვეთა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="142"/>
@@ -671,17 +671,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="144"/>
         <source>Undo</source>
-        <translation>უკან მიდი</translation>
+        <translation>დაბრუნება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="145"/>
         <source>Select all</source>
-        <translation>ყველას აირჩიე</translation>
+        <translation>ყველას შერჩევა</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="101"/>
         <source>Display shortcuts</source>
-        <translation>საშუალებების ჩვენება</translation>
+        <translation>სასწრაფო მოძრაობების ჩვენება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="131"/>
@@ -691,7 +691,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
         <source>Highlight</source>
-        <translation>გამარკიდებულება</translation>
+        <translation>გამარტივება</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="134"/>
@@ -719,7 +719,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
         <source>Remove bookmark</source>
-        <translation>მარკერის წაშლა</translation>
+        <translation>საჩეკის წაშლა</translation>
     </message>
 </context>
 <context>
@@ -753,7 +753,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>ახალი ჩანაწერი</translation>
+        <translation>ახალი ბანაკი</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
@@ -768,7 +768,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Display in file manager</source>
-        <translation>ფაილების მართვის სისტემაში ჩვენება</translation>
+        <translation>ფაილების მართვის პროგრამაში ჩვენება</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
@@ -783,12 +783,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Search</source>
-        <translation>პრინტი</translation>
+        <translation>ძებნა</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="54"/>
         <source>Print</source>
-        <translation>პროფილები</translation>
+        <translation>საბეჭდო დასახელება</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     <message>
         <location filename="../reader/uiframe/TitleWidget.cpp" line="37"/>
         <source>Thumbnails</source>
-        <translation>შესატანი ლიმიტი მისაღწევად მოხდა</translation>
+        <translation>სურათების პრევიენტები</translation>
     </message>
 </context>
 <context>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>დოკუმენტის ფაილის გზა.</translation>
+        <translation>შესატანი ლიმიტი მიღწეულია</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>ფაილის გზა</translation>
+        <translation>დოკუმენტის ფაილის გადახდის გზა.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>პროფილის გზა.</translation>
+        <translation>ფაილის გზა</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>პროფილის გენერირება.</translation>
+        <translation>პრევიენტის გზა.</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation type="unfinished"></translation>
+        <translation>პრევიენტის შექმნა.</translation>
     </message>
 </context>
 </TS>

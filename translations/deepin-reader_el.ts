@@ -4,12 +4,12 @@
     <message>
         <location filename="../reader/Application.cpp" line="39"/>
         <source>Document Viewer</source>
-        <translation>Αναγνώστης Αρχείων</translation>
+        <translation>Διαχειριστής Εγγράφων</translation>
     </message>
     <message>
         <location filename="../reader/Application.cpp" line="40"/>
         <source>Document Viewer is a tool for reading document files, supporting PDF, DJVU, DOCX etc.</source>
-        <translation>Ο Αναγνώστης Αρχείων είναι μια εφαρμογή για ανάγνωση αρχείων κειμένου, υποστηρίζει PDF, DJVU, DOCX κλπ.</translation>
+        <translation>Ο Διαχειριστής Εγγράφων είναι ένα εργαλείο για ανάγνωση αρχείων εγγράφων, υποστηρίζει PDF, DJVU, DOCX κλπ.</translation>
     </message>
 </context>
 <context>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="49"/>
         <source>Keywords</source>
-        <translation>Λέξεις Κλειδιά</translation>
+        <translation>Λέξεις κλειδιά</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="50"/>
@@ -47,12 +47,12 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="52"/>
         <source>Time created</source>
-        <translation>Ώρα Δημιουργίας</translation>
+        <translation>Ώρα δημιουργία</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="53"/>
         <source>Time modified</source>
-        <translation>Ώρα Επεξεργασίας</translation>
+        <translation>Ώρα επεξεργασίας</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="54"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="56"/>
         <source>Optimized</source>
-        <translation>Επιτυχημένη Προσαρμογή</translation>
+        <translation>Επεξεργασμένο</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="57"/>
@@ -77,17 +77,17 @@
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="59"/>
         <source>Page size</source>
-        <translation>Μέγεθος Σελίδας</translation>
+        <translation>Μέγεθος σελίδας</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="60"/>
         <source>File size</source>
-        <translation>Μέγεθος Αρχείου</translation>
+        <translation>Μέγεθος αρχείου</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="65"/>
         <source>Basic info</source>
-        <translation>Βασικές Πληροφορίες</translation>
+        <translation>Βασικές πληροφορίες</translation>
     </message>
     <message>
         <location filename="../reader/widgets/AttrScrollWidget.cpp" line="85"/>
@@ -110,12 +110,12 @@
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="64"/>
         <source>Add bookmark</source>
-        <translation>Προσθήκη Σημειωματικού</translation>
+        <translation>Προσθήκη σημειώματος</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/BookMarkWidget.cpp" line="220"/>
         <source>Are you sure you want to delete all bookmarks?</source>
-        <translation>Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα σημειωματικά;</translation>
+        <translation>Είστε σίγουροι ότι θέλετε να διαγράψετε όλα τα σημείωματα;</translation>
     </message>
 </context>
 <context>
@@ -128,32 +128,32 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="43"/>
         <source>Remove annotation</source>
-        <translation>Αφαίρεση Ανάγνωσης</translation>
+        <translation>Αφαίρεση σχολίου</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="44"/>
         <source>Add annotation</source>
-        <translation>Προσθήκη Ανάγνωσης</translation>
+        <translation>Προσθήκη σχολίου</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="47"/>
         <source>Remove bookmark</source>
-        <translation>Αφαίρεση Σημειωματικού</translation>
+        <translation>Αφαίρεση σημειώματος</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="49"/>
         <source>Add bookmark</source>
-        <translation>Προσθήκη Σημειωματικού</translation>
+        <translation>Προσθήκη σημειώματος</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="60"/>
         <source>Highlight</source>
-        <translation>Επισημάνσεις</translation>
+        <translation>Επισήμανση</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="69"/>
         <source>Remove highlight</source>
-        <translation>Αφαίρεση Επισημάνσεων</translation>
+        <translation>Αφαίρεση επισήμανσης</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="81"/>
@@ -163,12 +163,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="92"/>
         <source>Exit fullscreen</source>
-        <translation>Έξοδος από την πλήρη οθόνη</translation>
+        <translation>Έξοδος από την ολόκληρη οθόνη</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="94"/>
         <source>Fullscreen</source>
-        <translation>Πλήρης οθόνη</translation>
+        <translation>Ολόκληρη οθόνη</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="97"/>
@@ -198,12 +198,12 @@
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Εστίαση αριστερά</translation>
+        <translation>Στροφή προς τα αριστερά</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Εστίαση δεξιά</translation>
+        <translation>Στροφή προς τα δεξιά</translation>
     </message>
     <message>
         <location filename="../reader/browser/BrowserMenu.cpp" line="120"/>
@@ -229,7 +229,7 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="166"/>
         <source>The format is not supported</source>
-        <translation>Το μορφός δεν υποστηρίζεται</translation>
+        <translation>Το τύπο δεν υποστηρίζεται</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="208"/>
@@ -239,17 +239,17 @@
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="210"/>
         <source>Please check if the file is damaged</source>
-        <translation>Παρακαλώ ελέγξτε αν το αρχείο έχει υποστεί ζημιά</translation>
+        <translation>Παρακαλώ ελέγξτε αν το αρχείο είναι ζημιωμένο</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="212"/>
         <source>Conversion failed, please check if the file is damaged</source>
-        <translation>Η μετατροπή απέτυχε, παρακαλώ ελέγξτε αν το αρχείο έχει υποστεί ζημιά</translation>
+        <translation>Αποτυχία μετατροπής, παρακαλώ ελέγξτε αν το αρχείο είναι ζημιωμένο</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="420"/>
         <source>Save failed</source>
-        <translation>Η αποθήκευση απέτυχε</translation>
+        <translation>Αποτυχία αποθήκευσης</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralDocPage.cpp" line="426"/>
@@ -278,12 +278,12 @@
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="35"/>
         <source>Drag documents here</source>
-        <translation>Σύρετε τα έγγραφα εδώ</translation>
+        <translation>Σύρετε έγγραφα εδώ</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="41"/>
         <source>Format supported: %1</source>
-        <translation>Μορφός υποστηρίζεται: %1</translation>
+        <translation>Φόρματ υποστηρίζεται: %1</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/CentralNavPage.cpp" line="47"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="332"/>
         <source>The bookmark has been removed</source>
-        <translation>Το σύμβολο προσκόμισης έχει αφαιρεθεί</translation>
+        <translation>Το σημείωμα αφαιρέθηκε</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="533"/>
@@ -306,7 +306,7 @@
     <message>
         <location filename="../reader/uiframe/DocSheet.cpp" line="598"/>
         <source>The annotation has been removed</source>
-        <translation>Η σημειωματική έχει αφαιρεθεί</translation>
+        <translation>Η σχολιαστική σημείωση αφαιρέθηκε</translation>
     </message>
 </context>
 <context>
@@ -314,7 +314,7 @@
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="50"/>
         <source>Encrypted file, please enter the password</source>
-        <translation>Κρυπτογραφημένο αρχείο, παρακαλώ εισάγετε τον κωδικό</translation>
+        <translation>Έγγραφο κρυπτογραφημένο, παρακαλώ εισάγετε τον κωδικό</translation>
     </message>
     <message>
         <location filename="../reader/widgets/EncryptionPage.cpp" line="56"/>
@@ -393,15 +393,15 @@
     <message>
         <location filename="../reader/app/DBusObject.cpp" line="103"/>
         <source>Document not saved</source>
-        <translation>Ο έγγραφος δεν έχει αποθηκευτεί</translation>
+        <translation>Το έγγραφο δεν έχει αποθηκευτεί</translation>
     </message>
 </context>
 <context>
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>Θέλετε να αποθηκευτεί το αρχείο "%1";</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>Θέλετε να αποθηκευτεί το έγγραφο &quot;%1&quot;;</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
@@ -413,7 +413,7 @@
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
         <source>Discard</source>
         <comment>button</comment>
-        <translation>Αποδοχή</translation>
+        <translation>Απορρίψεις</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="38"/>
@@ -447,17 +447,17 @@
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="37"/>
         <source>Fit Page</source>
-        <translation>Επιτυχία σελίδας</translation>
+        <translation>Προσαρμογή σελίδας</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="38"/>
         <source>Fit Height</source>
-        <translation>Επιτυχία ύψους</translation>
+        <translation>Προσαρμογή ύψους</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ScaleMenu.cpp" line="39"/>
         <source>Fit Width</source>
-        <translation>Επιτυχία πλάτους</translation>
+        <translation>Προσαρμογή πλάτους</translation>
     </message>
 </context>
 <context>
@@ -465,12 +465,12 @@
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="60"/>
         <source>No search results</source>
-        <translation>Δεν βρέθηκαν αποτελέσματα αναζήτησης</translation>
+        <translation>Δεν υπάρχουν αποτελέσματα αναζήτησης</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SearchResWidget.cpp" line="111"/>
         <source>%1 items found</source>
-        <translation>'%1 αντικείμενα βρέθηκαν'</translation>
+        <translation>&apos;%1 αντικείμενα βρέθηκαν&apos;</translation>
     </message>
 </context>
 <context>
@@ -478,24 +478,24 @@
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="72"/>
         <source>This document is trying to connect to:</source>
-        <translation>Αυτό το αρχείο προσπαθεί να συνδεθεί με:</translation>
+        <translation>Το έγγραφο προσπαθεί να συνδεθεί με:</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="73"/>
         <source>If you trust the website, click Allow, otherwise click Block.</source>
-        <translation>Εάν εμπιστεύεστε την ιστοσελίδα, κάντε κλικ στο Allow, αλλιώς κάντε κλικ στο Block.</translation>
+        <translation>Αν εμπιστεύεστε τον ιστότοπο, κάντε κλικ στο Allow, αλλιώς κάντε κλικ στο Block.</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="76"/>
         <source>Block</source>
         <comment>button</comment>
-        <translation>Κλείσιμο</translation>
+        <translation>Block</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SecurityDialog.cpp" line="77"/>
         <source>Allow</source>
         <comment>button</comment>
-        <translation>Επιτροπή</translation>
+        <translation>Allow</translation>
     </message>
 </context>
 <context>
@@ -513,7 +513,7 @@
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="112"/>
         <source>Bookmarks</source>
-        <translation>Σύνδεσμοι</translation>
+        <translation>Σημειωματάρια</translation>
     </message>
     <message>
         <location filename="../reader/sidebar/SheetSidebar.cpp" line="127"/>
@@ -556,12 +556,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="118"/>
         <source>Zoom in</source>
-        <translation>Επενδύσεις</translation>
+        <translation>Μεγέθυνση</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="119"/>
         <source>Zoom out</source>
-        <translation>Επεκτείνεις</translation>
+        <translation>Συμπύκνωση</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="106"/>
@@ -601,12 +601,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="116"/>
         <source>Rotate left</source>
-        <translation>Στροφή αριστερά</translation>
+        <translation>Στροφή προς τα αριστερά</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="117"/>
         <source>Rotate right</source>
-        <translation>Στροφή δεξιά</translation>
+        <translation>Στροφή προς τα δεξιά</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="122"/>
@@ -626,12 +626,12 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="129"/>
         <source>Hand tool</source>
-        <translation>Εργαλείο χειρού</translation>
+        <translation>Εργαλείο χειρούς</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="130"/>
         <source>Add bookmark</source>
-        <translation>Προσθήκη επισκεπτικού σημείου</translation>
+        <translation>Προσθήκη σημειωματικού</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="143"/>
@@ -641,17 +641,17 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="133"/>
         <source>Magnifier</source>
-        <translation>Μικροσκόπιο</translation>
+        <translation>Μεγεθυντικό</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="135"/>
         <source>Slide show</source>
-        <translation>Παρουσίαση διαφανειών</translation>
+        <translation>Παρουσίαση</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="136"/>
         <source>Fullscreen</source>
-        <translation>Πλήρης οθόα</translation>
+        <translation>Πλήρης οθόνη</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="140"/>
@@ -661,7 +661,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="141"/>
         <source>Cut</source>
-        <translation>Κόψιμο</translation>
+        <translation>Κόπωση</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="142"/>
@@ -691,7 +691,7 @@
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="132"/>
         <source>Highlight</source>
-        <translation>Επισημάνση</translation>
+        <translation>Επισήμανση</translation>
     </message>
     <message>
         <location filename="../reader/widgets/ShortCutShow.cpp" line="134"/>
@@ -719,7 +719,7 @@
     <message>
         <location filename="../reader/sidebar/SideBarImageListview.cpp" line="218"/>
         <source>Remove bookmark</source>
-        <translation>Αφαίρεση επισημάνσεως</translation>
+        <translation>Αφαίρεση σημειωματικού</translation>
     </message>
 </context>
 <context>
@@ -748,12 +748,12 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New window</source>
-        <translation>Νέο παράθυρο</translation>
+        <translation>Νέος παράθυρος</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="29"/>
         <source>New tab</source>
-        <translation>Νέο καρτελάκι</translation>
+        <translation>Νέα ράμπα</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="39"/>
@@ -773,7 +773,7 @@
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="44"/>
         <source>Magnifer</source>
-        <translation>Μεγεθυντήριο</translation>
+        <translation>Μεγεθυντικός</translation>
     </message>
     <message>
         <location filename="../reader/uiframe/TitleMenu.cpp" line="50"/>
@@ -804,7 +804,7 @@
     <message>
         <location filename="../reader/widgets/TransparentTextEdit.cpp" line="82"/>
         <source>Input limit reached</source>
-        <translation>Φτάσε η προσωρινή όριο εισόδου</translation>
+        <translation>Έχει φτάσει το όριο εισαγωγής</translation>
     </message>
 </context>
 <context>
@@ -812,22 +812,22 @@
     <message>
         <location filename="../reader/main.cpp" line="40"/>
         <source>Document File Path.</source>
-        <translation>Διαδρομή αρχείου εγγράφου</translation>
+        <translation>Διαδρομή αρχείου έγγραφου</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="41"/>
         <source>FilePath</source>
-        <translation>Διαδρομή Αρχείου</translation>
+        <translation>Διαδρομή αρχείου</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="44"/>
         <source>ThumbnailPath Path.</source>
-        <translation>Διαδρομή Προβολής</translation>
+        <translation>Διαδρομή προβολής</translation>
     </message>
     <message>
         <location filename="../reader/main.cpp" line="49"/>
         <source>Generate thumbnail.</source>
-        <translation>Δημιουργία προβολής.</translation>
+        <translation>Δημιουργία προβολής</translation>
     </message>
 </context>
 </TS>

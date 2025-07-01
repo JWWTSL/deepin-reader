@@ -400,8 +400,8 @@
     <name>SaveDialog</name>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="35"/>
-        <source>Save the changes to "%1"?</source>
-        <translation>परिवर्तनों को "%1" में संचित करें?</translation>
+        <source>Save the changes to &quot;%1&quot;?</source>
+        <translation>परिवर्तनों को &quot;%1&quot; में संचित करें?</translation>
     </message>
     <message>
         <location filename="../reader/widgets/SaveDialog.cpp" line="37"/>
